@@ -4,7 +4,8 @@ def connect():
     connection = psycopg2.connect(
         user="postgres",
         password="postgres",
-        host="localhost",
+        host="host.docker.internal",
+        # host="localhost",
         port="5435",
         database="midb")
 

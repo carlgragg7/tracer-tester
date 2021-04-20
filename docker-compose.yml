@@ -1,0 +1,36 @@
+# version: "3.9"
+# services:
+#   tester:
+#     build:
+#       image: tracer-tester/python:3.7
+
+#     steps:
+#       # Create virtual env and install dependencies
+#       - run:
+#           name: install dependencies
+#           command: |
+#             python3 -m venv venv
+#             . venv/bin/activate
+#             pip install -r requirements.txt
+#       # Run linter and tests
+#       - run:
+#           name: run tests
+#           command: |
+#             . venv/bin/activate
+#             flake8 --exclude=venv* --statistics
+#             pytest -v --cov=tracer-tester
+
+# version: "3.9"
+# services:
+#   db:
+#     build: ./db/.
+#     image: test-db:12-3.1
+#     container_name: sql-unit-test-db
+#     volumes:
+#       - ./db/build:/docker-entrypoint-initdb.d
+#     ports:
+#       - 5438:5432
+#   tester:
+#     build: ./tester/src/.
+#     image: python:3.8.1-alpine
+#     container_name: sql-unit-test-db-tester
