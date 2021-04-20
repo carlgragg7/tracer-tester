@@ -1,0 +1,2903 @@
+    1  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    2  brew help
+    3  sudo dnf install git-all
+    4  sudo dnf install dh-autoreconf curl-devel expat-devel gettext-devel \\n  openssl-devel perl-devel zlib-devel
+    5  git clone
+    6  git clone
+    7  git clone git@gitlab.dso.xc.nga.mil:DevCorps/mcat-midb/mcat-ui.git
+    8  $ cat ~/.ssh/id_rsa.pub\n
+    9  ssh-keygen -t ed25519 -C "<comment>"
+   10  ssh-keygen -t rsa -b 2048 -C "cgragg1@ball.com"
+   11  pbcopy < ~/.ssh/id_ed25519.pub
+   12  ssh-keygen -t ed25519 -C "<comment>"
+   13  pbcopy < ~/.ssh/id_ed25519.pub
+   14  pbcopy < ~/.ssh/id_ed25519.pub
+   15  ssh-keygen -t ed25519 -C "<comment>"
+   16  pbcopy < ~/.ssh/id_ed25519.pub
+   17  cd mcat-api-master
+   18  ./gradlew
+   19  npm
+   20  npm install
+   21  npm install npm@latest -g
+   22  node
+   23  npm install
+   24  ./gradlew
+   25  ./gradlew
+   26  ./gradlew
+   27  ./gradlew
+   28  git status
+   29  ls
+   30  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   31  brew install zsh
+   32  ls
+   33  cd Desktop
+   34  ls
+   35  mcat-api
+   36  git pull
+   37  git status
+   38  ls
+   39  cd src
+   40  ls
+   41  cd main
+   42  ks
+   43  ls
+   44  cd resources
+   45  ls
+   46  ssh-keygen -t ed25519 -C "<comment>"
+   47  pbcopy < ~/.ssh/id_ed25519.pub
+   48  ssh-keygen -t rsa -b 2048 -C “cgragg1@ball.com”
+   49  pbcopy < ~/.ssh/id_rsa.pub
+   50  cd ..
+   51  git clone git@gitlab.dso.xc.nga.mil:DevCorps/mcat-midb/mcat-ui.git
+   52  git clone git@gitlab.dso.xc.nga.mil:DevCorps/mcat-midb/mcat-api.git
+   53  git pull
+   54  ls
+   55  cd mcat-api
+   56  git pull
+   57  sudo apt install zsh
+   58  brew install zsh
+   59  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   60  cd ..
+   61  ./gradlew
+   62  git pull
+   63  git stash --all
+   64  git pull
+   65  git stash drop 
+   66  git pull
+   67  ls
+   68  cd ..
+   69  cd mcat-ui
+   70  git stash 
+   71  git stash --all 
+   72  git stash 
+   73  git stash drop 
+   74  git pull
+   75  ./gradlew
+   76  cd .. 
+   77  cd  mcat-api
+   78  git stash --drop
+   79  git pull
+   80  git stash --all
+   81  git pull
+   82  ./gradlew
+   83  cd ..
+   84  cd MCAT
+   85  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/mcat-ui.git
+   86  ssh-keygen -t rsa -b 2048 -C "cgragg1@ball.com""\n\n
+   87  ssh-keygen -t rsa -b 2048 -C "cgragg1@ball.com"\n\n
+   88  pbcopy < ~/.ssh/id_ed25519.pub\n
+   89  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/mcat-ui.git
+   90  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/mcat-api.git
+   91  ssh-keygen -t rsa -b 2048 -C "cgragg1@ball.com""
+   92  ssh-keygen -t rsa -b 2048 -C "cgragg1@ball.com"
+   93  ssh-keygen -p -f /path/to/ssh_key\n
+   94  ssh-keygen -p -f /Users/carl/.ssh/id_rsa\n
+   95  pbcopy < ~/.ssh/id_ed25519.pub
+   96  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/mcat-api.git
+   97  ssh-keygen -t rsa -b 2048 -C "cgragg1@ball.com"
+   98  pbcopy < ~/.ssh/id_ed25519.pub
+   99  pbcopy < ~/.ssh/id_rsa.pub
+  100  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/mcat-api.git
+  101  git clone git@gitlab.dso.xc.nga.mil:DevCorps/mcat-midb/mcat-ui.git
+  102  ls
+  103  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/mcat-api.git
+  104  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/mcat-ui.git
+  105  ls
+  106  cd mcat-api
+  107  ./gradlew
+  108  grep -R "content_to_search" /path/to/directory
+  109  grep -R "content_to_search" /y
+  110  grep -R "content_to_search"
+  111  grep -R "content_to_search" /user/carl
+  112  grep -R "content_to_search" /Users/carl/Desktop/untitled folder
+  113  ls
+  114  cd Desktop
+  115  git clone https://github.com/kimura-dev1297/mcat-node-express-app.git
+  116  ls
+  117  ls -l
+  118  cd Desktop
+  119  man grep
+  120  grep -R 'EQP' /Users/Carl/Desktop/
+  121  mkdir outputfile
+  122  chmod 777 outputfile
+  123  grep -R 'EQP' /Users/Carl/Desktop/ | sort -u >> /Users/Carl/outputfile/EQP_report
+  124  grep -R 'EQP' /Users/Carl/Desktop/ | sort -u >> /Users/carl/Desktop/outputfile/EQP_report
+  125  git pull
+  126  npm install
+  127  git pull
+  128  cd ..
+  129  git clone https://github.com/kimura-dev1297/node-express-parser.git
+  130  ls 
+  131  cd node-express-parser
+  132  ls
+  133  npm run dev
+  134  npm
+  135  npm install
+  136  npm run dev
+  137  git pull
+  138  git status
+  139  npm install
+  140  npm run 
+  141  npm run dev
+  142  git pull
+  143  npm install
+  144  npm run dev 
+  145  git pull
+  146  git stash --all
+  147  git pull
+  148  git stash
+  149  git stash --status
+  150  git stash show
+  151  mkdir xml-to-xaml
+  152  cd xml-to-xaml
+  153  mkdir input
+  154  mkdir output
+  155  cd output
+  156  mkdir GMI_MIDB_OUTPUT
+  157  cd m
+  158  cd GMI_MIDB_OUTPUT
+  159  mkdir Composites
+  160  mkdir Keys_Output
+  161  cd ..
+  162  cd .. 
+  163  cd ..
+  164  mkdir xaml-to-xml
+  165  npm run dev
+  166  npm install
+  167  npm run dev
+  168  cd xml-to-xaml
+  169  cd input
+  170  mkdir ADDS_AMS_INPUT
+  171  ls
+  172  cd ADDS_AMS_INPUT
+  173  mkdir Composities
+  174  cd ..
+  175  cd node-express-parser
+  176  npm run dev
+  177  cd //
+  178  cd Users
+  179  cd carl
+  180  cd Desktop
+  181  ls
+  182  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/midb-scripts.git
+  183  cd Desktop
+  184  cd midb-scripts
+  185  ls
+  186  git branch -a
+  187  git checkout db-container
+  188  git pull
+  189  cd container-dev-db
+  190  ls
+  191  cd container-dev-db
+  192  ls
+  193  docker-compose up 
+  194  docker-compose up
+  195  docker-compose build
+  196  docker-compose up -d
+  197  docker-compose up 
+  198  docker-compose build
+  199  docker-compose up 
+  200  docker exec -it -u postgres midb-aero-db /bin/bash
+  201  docker-compose up -d
+  202  docker exec -it -u postgres midb-aero-db /bin/bash
+  203  cd Desktop
+  204  ls
+  205  cd midb-scripts
+  206  ls
+  207  cd container-dev-db
+  208  docker exec -it -u postgres midb-aero-db psql
+  209  git pull
+  210  git stash 
+  211  git pull
+  212  git pop
+  213  git stash pop
+  214  cd Desktop
+  215  cd midb-scripts
+  216  cd container-dev-db
+  217  docker-compose up 
+  218  netstat
+  219  losf -np +c 15 | grep LISTEN
+  220  pwd
+  221  losf -np +c 15 | grep LISTEN
+  222  ifconfig
+  223  sudo losf -np +c 15 | grep LISTEN
+  224  losf -np +c 15 | grep LISTEN
+  225  ls
+  226  cd Desktop
+  227  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/midb-scripts.git
+  228  mkdir midb-scripts2
+  229  cd midb-scripts2
+  230  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/midb-scripts.git
+  231  docker-compose down --rmi all
+  232  docker-compose down
+  233  docker-compose up 
+  234  ls
+  235  docker-compose up
+  236  cd ..
+  237  docker-compose up
+  238  cd container-dev-db
+  239  docker-compose up
+  240  docker-compose down --rmi all
+  241  docker-compose up
+  242  docker-compose down --rmi all
+  243  docker-compose up
+  244  cd .. 
+  245  cd ..
+  246  cd midb-scripts
+  247  ls
+  248  docker-compose up
+  249  cd ..
+  250  cd node-express-parser
+  251  docker-compose up
+  252  docker-compose up 
+  253  docker-compose down --rmi all
+  254  cd .. 
+  255  cd midb-scripts
+  256  cd container-dev-db
+  257  docker-compose down --rmi all
+  258  cd ..
+  259  cd noe
+  260  cd node-express-parser
+  261  docker-compose down --rmi all
+  262  docker-compose down
+  263  docker-compose down --rmi all
+  264  docker-compose up
+  265  ls
+  266  docker-compose up
+  267  cd ..
+  268  cd midb-scripts
+  269  docker-compose down --rmi all
+  270  cd container-dev-db
+  271  docker-compose down --rmi all
+  272  docker-compose down 
+  273  docker-compose down --rmi all
+  274  docker-compose up
+  275  docker-compose down --rmi all
+  276  cd .. 
+  277  cd ..
+  278  cd node-express-parser
+  279  docker-compose up 
+  280  cd .. 
+  281  cd midb-scripts
+  282  cd container-dev-db
+  283  docker-compose up 
+  284  docker-compose up -d
+  285  cd ..
+  286  cd node-express-parser
+  287  docker-compose up 
+  288  docker container -ls
+  289  docker container ls
+  290  docker run --rm andrewjones/schemaspy-postgres:latest -host database -port 5435 -u postgres -p postgres -db postgres -s public
+  291  docker run --rm andrewjones/schemaspy-postgres:12-3.1 -host database -port 5435 -u postgres -p postgres -db postgres -s public
+  292  cd .. 
+  293  cd midb-scripts
+  294  cd container-dev-db
+  295  mkdir outputSchemaSpy
+  296  ls
+  297  java -jar schemaSpy.jar -t mssql -db postgres -host localhost -port 5435 -u postgres -p postgres -o outputSchemaSpy
+  298  ls
+  299  java -jar schemaSpy.jar -t mssql -db postgres -host localhost -port 5435 -u postgres -p postgres -o outputSchemaSpy
+  300  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql -db postgres -host postgres -u postgres -p postgres\n
+  301  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql -db postgres -host localhost -port 5435 -u postgres -p postgres\n
+  302  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql -db postgres -host host.docker.internal -port 5435 -u postgres -p postgres\n
+  303  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql -db postgres -host host.docker.internal -port 5435 -u carl -p postgres\n
+  304  docker container ;s
+  305  docker container ls
+  306  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql -db postgres -host host.docker.internal -port 5435 -u asdf -p postgres\n
+  307  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql -db postgres -host host.docker.internal -port 5435 -u carl -p postgres\n
+  308  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t psgsql11 -db postgres -host host.docker.internal -port 5435 -u carl -p postgres\n
+  309  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql -db postgres -host host.docker.internal -port 5435 -u carl -p postgres\n
+  310  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql11 -db postgres -host host.docker.internal -port 5435 -u postgres -p postgres\n
+  311  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql11 -db postgres -host host.docker.internal -port 5435 -u carl -p postgres\n
+  312  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql11 -db postgres -host host.docker.internal -port 5435 -u carl -p postgres -debug\n
+  313  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql11 -db postgres -host host.docker.internal -port 5435 -u postgres -p postgres -s aps\n
+  314  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql11 -db postgres -host host.docker.internal -port 5435 -u carl -p postgres -s aps\n
+  315  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql11 -db postgres -host host.docker.internal -port 5435 -u carl -p postgres -s pg_catalog\n
+  316  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql11 -db postgres -host host.docker.internal -port 5435 -u carl -p postgres -s pg_catalog -i \n
+  317  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql11 -db postgres -host host.docker.internal -port 5435 -u carl -p postgres -s pg_catalog --options\n
+  318  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql11 -db postgres -host host.docker.internal -port 5435 -u carl -p postgres -s pg_catalog\n
+  319  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql11 -db postgres -host host.docker.internal -port 5435 -u carl -p postgres -s aps\n
+  320  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql11 -db postgres -host host.docker.internal -port 5435 -u carl -p postgres -s adds\n
+  321  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql11 -db postgres -host host.docker.internal -port 5435 -u carl -p postgres -s public\n
+  322  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql11 -db postgres -host host.docker.internal -port 5435 -u carl -p postgres -s asdf\n
+  323  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql11 -db postgres -host host.docker.internal -port 5435 -u carl -p postgres -s adds\n
+  324  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql11 -db postgres -host host.docker.internal -port 5435 -u carl -p postgres -s adds -debug\n
+  325  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql11 -db postgres -host host.docker.internal -port 5435 -u carl -p postgres -s information_schema
+  326  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql11 -db postgres -host host.docker.internal -port 5435 -u carl -p postgres -s information_schema -debug
+  327  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql11 -db postgres -host host.docker.internal -port 5435 -u aps_admin -p postgres -s asdf\n
+  328  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql11 -db postgres -host host.docker.internal -port 5435 -u aps_admin -p postgres \n
+  329  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql11 -db postgres -host host.docker.internal -port 5435 -u postgres -p postgres \n
+  330  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql11 -db postgres -host host.docker.internal -port 5435 -u aps_admin -p postgres -s aps -sso\n
+  331  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql11 -db postgres -host host.docker.internal -port 5435 -u aps_admin -p postgres -s pg_catalog -sso\n
+  332  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql11 -db aps -host host.docker.internal -port 5435 -u carl -p postgres -s adds\n
+  333  cd ..
+  334  cd Desktop
+  335  cd midb-scripts
+  336  ls
+  337  cd container-dev-db
+  338  ls
+  339  cd ..
+  340  ls
+  341  cd legacy-scripts
+  342  ls
+  343  cd ..
+  344  cd setup-legacy-instance
+  345  ls
+  346  cd ..
+  347  git clone git@gitlab.gs.mil:Joyce.Michael.1210497613/midb-legacy-code.git
+  348  cd midb-legacy-code
+  349  ls
+  350  cd .. 
+  351  cd midB-la
+  352  cd midb-legacy-code
+  353  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql11 -db midb -host host.docker.internal -port 5435 -u carl -p postgres -s adds\n
+  354  docker run -v $PWD/output:/output2 schemaspy/schemaspy:snapshot -t pgsql11 -db midb -host host.docker.internal -port 5435 -u carl -p postgres -s adds\n
+  355  cd ..
+  356  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql11 -db aps -host host.docker.internal -port 5435 -u carl -p postgres -s adds\n
+  357  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql11 -db midb -host host.docker.internal -port 5435 -u carl -p postgres -s adds\n
+  358  docker run -v $PWD/output:/output schemaspy/schemaspy:snapshot -t pgsql11 -db midb -host host.docker.internal -port 5435 -u carl -p postgres -s gmi\n
+  359  cd APS
+  360  cd midb-scripts
+  361  git pull
+  362  git stash 
+  363  git pull
+  364  git status
+  365  cd de
+  366  cd Desktop
+  367  cd MCAT\ Parser
+  368  cd mcat-node-express-app
+  369  git pull
+  370  ls
+  371  docker-compose up
+  372  docker-compose up -d
+  373  docker-compose up
+  374  docker-compose up -d
+  375  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/midb-container.git
+  376  ls
+  377  cd Desktop
+  378  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/midb-container.git
+  379  docker container ls
+  380  cd midb-container
+  381  brew install clamav
+  382  ls
+  383  git branch -ls
+  384  git branch -a
+  385  git branch checkout gmi-db
+  386  git branch -a
+  387  git checkout branch gmi-db
+  388  git checkout gmi-db
+  389  git pull
+  390  cd /usr/local/etc/clamav
+  391  cp freshclam.conf.sample freshclam.conf
+  392  ls
+  393  docker-compose up 
+  394  vi freshclam.conf
+  395  cd /usr/local/etc
+  396  chmod -R 777 clamav
+  397  cd /var/log
+  398  sudo touch freshclam.log
+  399  sudo chmod 766 freshclam.log
+  400  freshclam
+  401  cd /var/log
+  402  sudo touch weekly_clamscan.log
+  403  sudo chmod 766 weekly_clamscan.log
+  404  cd ~
+  405  mkdir scripts
+  406  cd scripts
+  407  vi weekly_clamscan
+  408  chmod 755 weekly_clamscan
+  409  ls
+  410  cd ~
+  411  mkdir quarantine
+  412  chmod 766 quarantine
+  413  cd /Library/LaunchDaemons
+  414  sudo vi com.personal.freshclam.plist
+  415  cd /Library/LaunchDaemons
+  416  sudo launchctl load /Library/LaunchDaemons/com.personal.freshclam.plist
+  417  sudo launchctl load /Library/LaunchDaemons/com.personal.weekly_clamscan.plist
+  418  cd /Library/LaunchDaemons
+  419  sudo vi com.personal.weekly_clamscan.plist
+  420  ls
+  421  cd ..
+  422  ls
+  423  cd Carl/desktop
+  424  cd carl/Desktop
+  425  cd carl
+  426  cd ..
+  427  cd Carl/desktop
+  428  ls
+  429  pwd
+  430  sudo launchctl load /Library/LaunchDaemons/com.personal.weekly_clamscan.plist
+  431  cd ..
+  432  ls
+  433  cd ..
+  434  ls
+  435  cd Car
+  436  cd var
+  437  ls
+  438  cd log
+  439  l
+  440  ls
+  441  vi freshclam.log
+  442  vi weekly_clamscan.log
+  443  sudo launchctl load /Library/LaunchDaemons/com.personal.freshclam.plist
+  444  sudo launchctl load /Library/LaunchDaemons/com.personal.weekly_clamscan.plist
+  445  ls
+  446  docker-compose up
+  447  docker-compose up -d
+  448  sudo fdesetup enable
+  449  sudo /usr/libexec/ApplicationFirewall/socketfilterfw --setstealthmode on
+  450  history
+  451  history > CarlsLaptopInstall.txt
+  452  history < CarlsLaptopInstall.txt
+  453  cd ..
+  454  cd Users
+  455  ls
+  456  cd de
+  457  cd carl
+  458  ls
+  459  cd Desktop
+  460  mkdir CarlsLaptopInstall.txt
+  461  history < CarlsLaptopInstall.txt
+  462  history > CarlsLaptopInstall.txt
+  463  history < CarlsLaptopInstallHistory.txt
+  464  history > CarlsLaptopInstallHistory.txt
+  465  cd ~
+  466  pwd
+  467  ls
+  468  cd quarantine
+  469  ls
+  470  cd ..
+  471  cd ~
+  472  ls
+  473  cd ..
+  474  ls
+  475  history
+  476  cd midb-container
+  477  docker ls
+  478  docker -a
+  479  docker -ls
+  480  docker-compose -ls
+  481  docker container -ls
+  482  docker container ls
+  483  docker container kill 
+  484  docker container kill bc0e9cefb3d1
+  485  docker container ls
+  486  cd ..
+  487  cd Schema_View
+  488  docker run -v $PWD/gmi:/output schemaspy/schemaspy:snapshot -t pgsql11 -db midb -host host.docker.internal -port 5436 -u mcat -p mcat -s gmi\n
+  489  docker run -v $PWD/adds:/output schemaspy/schemaspy:snapshot -t pgsql11 -db midb -host host.docker.internal -port 5436 -u mcat -p mcat -s adds\n
+  490  docker build -t html-server-image:v1 .
+  491  docker run -d -p 80:80 html-server-image:v1
+  492  docker build -t html-server-image:v1 .
+  493  docker run -d -p 80:80 html-server-image:v1
+  494  docker run -d -p 81:80 html-server-image:v1
+  495  docker container -ls
+  496  docker container ls
+  497  docker kill 767a6c7e6446
+  498  docker container ls
+  499  docker kill eb1e8f15b2c9
+  500  docker container ls
+  501  docker kill a98471b5d3c6
+  502  docker container ls
+  503  docker build -t html-server-image:v2 .
+  504  docker run -d -p 81:80 html-server-image:v2
+  505  docker build -t html-server-image:v3 .
+  506  docker run -d -p 81:80 html-server-image:v3
+  507  docker run -d -p 80:80 html-server-image:v3
+  508  cd gmi
+  509  docker build -t html-server-image:v4 .
+  510  docker run -d -p 80:80 html-server-image:v4
+  511  docker run -d -p 8080:80 html-server-image:v4
+  512  docker build -t html-server-image2:v1 .
+  513  docker run -d -p 8080:80 html-server-image2:v1
+  514  docker run -d -p 8081:80 html-server-image2:v1
+  515  docker run -d -p 8081:80 html-server-image3:v1
+  516  docker build -t html-server-image3:v1 .
+  517  docker run -d -p 8082:80 html-server-image3:v1
+  518  cd ..
+  519  ls
+  520  cd midb-container
+  521  git pull
+  522  docker container ls
+  523  git stash
+  524  git pull
+  525  docker-compose up
+  526  docker-compose up -d
+  527  git stash --all
+  528  git pull
+  529  ls
+  530  cd Desktop
+  531  cd midb-legacy-code
+  532  cd ..
+  533  grep 'sp_' -R /Users/carl/Desktop/midb-legacy-code/MIDB/storedprocs/Triggers/ | sort -u > stored_producers_list_ackt_bnkt.txt\n
+  534  grep 'acft_bnkr' -R /Users/carl/Desktop/stored_producers_list_ackt_bnkt.txt\n
+  535  grep 'acft_bnkr' -R /Users/carl/Desktop/stored_producers_list_ackt_bnkt.txt > 3,txt\n
+  536  grep 'acft_bnkr' -R /Users/carl/Desktop/stored_producers_list_ackt_bnkt.txt > 3.txt\n
+  537  grep 'insert' -R /Users/carl/Desktop/stored_producers_list_ackt_bnkt.txt > 4.txt\n
+  538  cd .. 
+  539  mkdir test-framework
+  540  cd Desktop
+  541  cd test-framework
+  542  npm init -y
+  543  npm i express pg
+  544  node index.js
+  545  npm start
+  546  node index.js
+  547  git pull
+  548  git stash --all
+  549  git pull
+  550  cd .
+  551  cd ..
+  552  cd node-express-parser
+  553  git pull
+  554  git stash --all
+  555  git branch -a
+  556  git checkout configure-postgres
+  557  git pull
+  558  pip install psycopg2
+  559  ls
+  560  cd Desktop
+  561  mkdir python_mcat_api
+  562  cd python_mcat_api
+  563  pip3 install
+  564  pip install psycopg2\n
+  565  pip install 
+  566  pip3 install psycopg2
+  567  pip3 install psycopg2-binary
+  568  sudo pip install psycopg2-binary
+  569  sudo pip3 install psycopg2-binary
+  570  pip3 install upgrade pip
+  571  pip3 install upgrade pip3
+  572  python -m pip install
+  573  python pip install
+  574  python install pip
+  575  pip3 install --no-binary :all: psycopg2
+  576  pip3 install --upgrade pip3
+  577  python -m pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org --trusted-host pypi.python.org psycopg2\n
+  578  python -m pip3 install --trusted-host pypi.org --trusted-host files.pythonhosted.org --trusted-host pypi.python.org psycopg2\n
+  579  conda install -c anaconda psycopg2
+  580  pip
+  581  python -m pip
+  582  sudo easy_install pip
+  583  pip
+  584  python get-pip.py\n
+  585  shasum -a 256 /path/filename
+  586  shasum -a 256 /Users/carl/Desktop/Anaconda3-2020.11-MacOSX-x86_64.sh
+  587  bash ~/Downloads/Anaconda3-2020.02-MacOSX-x86_64.sh
+  588  bash ~/Downloads/Anaconda2-2019.10-MacOSX-x86_64.sh\n
+  589  conda init
+  590  conda config --set auto_activate_base False
+  591  conda
+  592  pip -v
+  593  pip3 -v
+  594  pip3 install 
+  595  python pip -v
+  596  python -m pip -v
+  597  pip install --upgrade urllib3
+  598  sudo pip install --upgrade urllib3
+  599  sudo -H pip install --upgrade urllib3
+  600  curl -O https://bootstrap.pypa.io/2.7/get-pip.py
+  601  python get-pip.py
+  602  python -m pip install --upgrade "pip < 21.0"
+  603  pip -v
+  604  python -m pip -v
+  605  python -m pip install --upgrade "pip < 19.2"
+  606  python -m pip install psycopg2-binary
+  607  sudo python -m pip install psycopg2-binary
+  608  python -m pip install psycopg2
+  609  sudo python -m pip install psycopg2
+  610  python -m pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org --trusted-host pypi.python.org psycopg2\n
+  611  conda install -c anaconda psycopg2
+  612  source /opt/anaconda3/bin/activate
+  613  conda activate base
+  614  conda install -c anaconda psycopg2
+  615  docker container -a
+  616  docker container -ls
+  617  docker container ls
+  618  cd Desktop
+  619  ls
+  620  cd Kity-Kat
+  621  ls
+  622  cd midb-container
+  623  docker-compose up
+  624  docker-compose up -d
+  625  pip -v
+  626  pip -v 
+  627  pip -v
+  628  which pip
+  629  pip3 -v
+  630  which pip
+  631  curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
+  632  sudo curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
+  633  poety --version
+  634  poetry --version
+  635  poetry
+  636  which pip
+  637  brew search python
+  638  brew help
+  639  brew uninstall python
+  640  brew install pyenv
+  641  pyenv install 3.8
+  642  pyenv install 3.8.5
+  643  pyenv versions
+  644  pyenv global 3.8.5
+  645  which python
+  646  pyenv versions
+  647  python -v
+  648  pyenv versions
+  649  echo -e 'if command -v pyenv 1>/dev/null 2>&1; then\n  eval "$(pyenv init -)"\nfi' >> 
+  650  echo -e 'if command -v pyenv 1>/dev/null 2>&1; then\n  eval "$(pyenv init -)"\nfi' >> ~/.zshrc
+  651  exec "$SHELL"
+  652  which python
+  653  python -v
+  654  pip install psycopg2
+  655  pip install --upgrade pip
+  656  sudo curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
+  657  poetry --version
+  658  pip install psycopg2
+  659  history
+  660  history > PythonInstall.txt
+  661  pip -v
+  662  pip --version
+  663  pip install psycopg2
+  664  pip install psycopg2-binary
+  665  pip uninstall psycopg2 psycopg2-binary
+  666  pip install psycopg2
+  667  pip uninstall psycopg2 psycopg2-binary
+  668  pip install psycopg2-binary
+  669  pip server.py
+  670  python3 server.py
+  671  history > PythonInstall.txt
+  672  python3 server.py
+  673  cd mcat_api
+  674  python3 server.py
+  675  source /opt/anaconda3/bin/activate
+  676  conda activate base
+  677  /opt/anaconda3/bin/python
+  678  python3 insert.py
+  679  python3 sersver.py
+  680  python3 server.py
+  681  python3 tests.py
+  682  python3 server.py
+  683  python3 hellop.py
+  684  python3 hello.py
+  685  pip install flask
+  686  python3 hello.py
+  687  mkdir flask-tutorial
+  688  cd flask-tutorial
+  689  mkdir flaskr
+  690  export FLASK_APP=flaskr
+  691  export FLASK_ENV=development
+  692  flask run
+  693  flask init-db
+  694  flask run
+  695  pip install psycopg2
+  696  pip install psycopg2-binary
+  697  flask init-db
+  698  flask run
+  699  pip install pytest coverage
+  700  flask run
+  701  ls
+  702  cd flaskr
+  703  flask run
+  704  cd ..
+  705  export FLASK_APP=flaskr
+  706  export FLASK_ENV=development
+  707  flask run
+  708  coverage run -m pytest
+  709  history
+  710  flask run
+  711  coverage run -m pytest
+  712  flask run
+  713  coverage run -m pytest
+  714  sudo nano Dockerfile
+  715  docker build -t flaskdock .
+  716  history 
+  717  docker build -t flaskdock .
+  718  flask init-db
+  719  docker build -t flaskdock .
+  720  flask run
+  721  ls
+  722  cd Desktop
+  723  mkdir tracer
+  724  cd tracer
+  725  git config --global user.name "GRAGG.CARL.cgragg1_at_ball.com"\n
+  726  git config --global user.email "cgragg1@ball.com"\n\n
+  727  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/tracer.git\n
+  728  cd tracer\n
+  729  touch README.md
+  730  git add README.md
+  731  git commit -m "add README"\n\n
+  732  git add --all
+  733  git commit -m "Updated README"
+  734  git push
+  735  git branch tracer
+  736  git checkout tracer
+  737  git add --all
+  738  git commit -m "Updated README"
+  739  git push
+  740  git push --set-upstream origin tracer
+  741  pip freeze > requirements.txt
+  742  docker image build -t python-hello-world .
+  743  git status
+  744  pip install -r requirements.txt
+  745  pip install flask
+  746  gunicorn --chdir app main:app -w 2 --threads 2 -b 0.0.0.0:8000
+  747  pip install gunicorn
+  748  gunicorn --chdir app main:app -w 2 --threads 2 -b 0.0.0.0:8000
+  749  gunicorn --chdir app main:flaskr -w 2 --threads 2 -b 0.0.0.0:8000
+  750  gunicorn --chdir flaskr main:flaskr -w 2 --threads 2 -b 0.0.0.0:8000
+  751  gunicorn --chdir flaskr main:app -w 2 --threads 2 -b 0.0.0.0:8000
+  752  docker build -t flask/hello-world .
+  753  docker run -p 8003:8003 flask/hello-world
+  754  pip freeze > requirements.txt
+  755  gunicorn -w 4 myapp:app
+  756  docker build -t flask/hello-world .
+  757  docker run -p 8003:8003 flask/hello-world
+  758  sudo gunicorn_starter
+  759  docker build -t flask/hello-world .
+  760  docker run -p 8003:8003 flask/hello-world
+  761  gunicorn --chdir flask main:app -w 2 --threads 2 -b 0.0.0.0:8000
+  762  gunicorn --chdir flaskr main:app -w 2 --threads 2 -b 0.0.0.0:8000
+  763  gunicorn --chdir app main:app -w 2 --threads 2 -b 0.0.0.0:8000
+  764  gunicorn --chdir flaskr main:app -w 2 --threads 2 -b 0.0.0.0:8000
+  765  ls
+  766  cd flaskr
+  767  gunicorn main:app -w 2 --threads 2 -b 0.0.0.0:8000
+  768  gunicorn app:app -w 2 --threads 2 -b 0.0.0.0:8000
+  769  python app.py
+  770  flask run
+  771  export FLASK_APP=flaskr
+  772  export FLASK_ENV=development
+  773  flask run
+  774  git pull https://github.com/testdrivenio/fastapi-crud-sync.git
+  775  git clone https://github.com/testdrivenio/fastapi-crud-sync.git
+  776  docker-compose up -d --build
+  777  pip install -r requirements.txt
+  778  cd app
+  779  cd src
+  780  pip install -r requirements.txt
+  781  cd ..
+  782  docker-compose up -d --build
+  783  docker-compose exec web pytest .
+  784  docker-compose up -d --build
+  785  docker-compose exec web pytest .
+  786  export FLASK_APP=flaskr
+  787  export FLASK_ENV=development
+  788  flask init-db 
+  789  flask run
+  790  coverage run -m pytest
+  791  export FLASK_APP=flaskr
+  792  export FLASK_ENV=development
+  793  flask init-db
+  794  flask run 
+  795  coverage run -m pytest
+  796  docker-compose exec web pytest .
+  797  pip freeze > requirements.txt
+  798  pip install -r requirements.txt
+  799  cd src
+  800  pip install -r requirements.txt
+  801  docker-compose exec web pytest .
+  802  cd ..
+  803  docker-compose exec web pytest .
+  804  docker-compose up -d --build
+  805  docker-compose exec web pytest .
+  806  docker-compose up -d --build
+  807  docker-compose exec web pytest .
+  808  ls
+  809  docker-compose exec web pytest .
+  810  docker-compose up -d --build
+  811  docker-compose exec web pytest .
+  812  docker-compose rm
+  813  docker container -a
+  814  docker container -ls
+  815  docker container ls
+  816  docker kill e1e0c244bea5
+  817  docker kill dbf38ce9d485
+  818  docker-compose rm
+  819  docker-compose up -d --build
+  820  docker-compose exec web pytest .
+  821  docker container -ls
+  822  docker container ls
+  823  docker container kill 08ec138d73f2
+  824  docker-compose rm
+  825  docker-compose up -d --build
+  826  docker-compose exec web pytest .
+  827  docker container ls
+  828  docker container kill cea99d9d3507
+  829  docker-compose rm
+  830  docker-compose up -d --build
+  831  docker-compose exec web pytest .
+  832  docker-compose up -d --build
+  833  cd ..
+  834  mkdir git_fastapi
+  835  cd git_fastapi
+  836  git clone https://github.com/testdrivenio/fastapi-crud-sync.git
+  837  ls
+  838  cd fastapi-crud-sync
+  839  docker container ls
+  840  docker container kill 01a7ae7c2a30
+  841  docker-compose up -d --build
+  842  docker container ls
+  843  docker-compose up -d --build
+  844  sudo netstat -tunlp
+  845  netstat
+  846  docker-compose exec web pytest .
+  847  docker-compose up -d --build
+  848  docker-compose rm 
+  849  docker contianer ls
+  850  docker contianer -ls
+  851  docker container ls
+  852  docker kill 58ff5e7d536d
+  853  docker kill d73ab255ec9e
+  854  docker-compose rm 
+  855  docker-compose up -d --build
+  856  docker-compose exec web pytest .
+  857  docker-compose up -d --build
+  858  docker-compose exec web pytest .
+  859  docker-compose up -d --build
+  860  docker-compose exec web pytest .
+  861  docker-compose up -d --build
+  862  docker-compose exec web pytest .
+  863  docker-compose up -d --build
+  864  curl http --json POST http://localhost:8002/notes/ title=foo description=bar
+  865  curl --help
+  866  curl --json POST http://localhost:8002/notes/ title=foo description=bar
+  867  docker-compose up -d --build
+  868  curl -X POST http://localhost:8002/notes/ title=foo description=bar
+  869  curl --json POST http://localhost:8002/notes/ title=foo description=bar
+  870  curl -X POST http://localhost:8002/notes/ title=foo description=bar
+  871  docker-compose up -d --build
+  872  curl -X POST http://localhost:8002/notes/ title=foo description=bar
+  873  curl -X POST http://localhost:8000/notes/ title=foo description=bar
+  874  curl -X POST http://localhost:8002/notes/ title=foo description=bar
+  875  docker-compose up -d --build
+  876  curl -X POST http://localhost:8002/notes/ title=foo description=bar
+  877  curl -X POST http://localhost:8002
+  878  git stash 
+  879  docker-compose up -d --build
+  880  curl -X POST http://localhost:8002/notes/ title=foo description=bar
+  881  curl -X POST http://localhost:8003/notes/ title=foo description=bar
+  882  curl -X POST http://localhost:8003/notes/ 
+  883  docker-compose up -d --build
+  884  curl -X POST http://localhost:8003/notes/ title=foo description=bar
+  885  git stash
+  886  curl -X POST http://localhost:8003/notes/ title=foo description=bar
+  887  docker-compose up -d --build
+  888  pipenv install python-dotenv
+  889  pip install psycopg2-binary
+  890  docker-compose up -d --build
+  891  docker container -ls
+  892  docker container ls
+  893  docker-compose up -d --build
+  894  cd Desktop
+  895  git clone https://github.com/testdrivenio/fastapi-crud-sync.git
+  896  docker container ls
+  897  docker-compose up -d --build
+  898  docker-compose exec web pytest .
+  899  docker-compose up -d --build
+  900  docker-compose exec web pytest .
+  901  docker-compose up -d --build
+  902  curl -X POST http://localhost:8004
+  903  curl -X POST http://localhost:8004/notes
+  904  docker-compose up -d --build
+  905  docker-compose exec web pytest .
+  906  docker container ls
+  907  curl -X POST http://localhost:8006/notes
+  908  curl -X POST http://localhost:8006
+  909  docker-compose up -d --build
+  910  docker-compose exec web pytest .
+  911  curl -X POST http://localhost:8006
+  912  curl -X POST http://localhost:8006/
+  913  curl -X POST http://localhost:8006/query
+  914  curl -X POST http://localhost:8006/notes
+  915  docker-compose up -d --build
+  916  docker-compose exec web pytest .
+  917  docker-compose up -d --build
+  918  docker container ls
+  919  docker-compose up -d --build
+  920  docker-compose exec web pytest .
+  921  docker-compose up -d --build
+  922  docker-compose exec web pytest .
+  923  docker-compose up -d --build
+  924  git stash
+  925  git stash --all
+  926  git pull
+  927  cd ..
+  928  cd midB
+  929  cd ..
+  930  cd MIDB
+  931  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/midb-container.git
+  932  cd midb-container
+  933  git checkout gmi-db
+  934  docker-compose up -d --build
+  935  curl -X POST http://localhost:8006/ping
+  936  docker-compose up -d --build
+  937  curl -X POST http://localhost:8006/ping
+  938  docker-compose up -d --build
+  939  curl -X POST http://localhost:8006/ping
+  940  uvicorn app.main:app --reload --workers 1 --host 0.0.0.0 --port 8000
+  941  docker-compose up -d --build
+  942  curl -X POST http://localhost:8006/ping
+  943  docker-compose up --build
+  944  pip install email-validator
+  945  history
+  946  pip freeze > requirements.txt
+  947  docker-compose up --build
+  948  /Users/carl/.pyenv/versions/3.8.5/bin/python
+  949  docker-compose up --build
+  950  pyenv shell 3.8.5
+  951  docker-compose exec web pytest .
+  952  docker-compose up -d --build
+  953  docker container ls
+  954  docker kill 
+  955  docker kill 7ea3913e10e4
+  956  docker kill 65896311a3ab
+  957  docker kill 67a7cc355ccf
+  958  docker kill a50046a6c8c0
+  959  docker kill d73ab255ec9e
+  960  docker container ls
+  961  docker-compose up -d --build
+  962  docker system prune
+  963  docker-compose up -d --build
+  964  docker-compose exec web pytest .
+  965  docker-compose up --build
+  966  docker-compose up -d --build
+  967  docker-compose up --build
+  968  pyenv shell 3.8.5
+  969  docker-compose exec web pytest .
+  970  cd Desktop
+  971  cd untitled\ folder 2
+  972  cd untitled\ folder\ 2
+  973  git clone https://github.com/testdrivenio/fastapi-crud-async.git
+  974  ls
+  975  pyenv shell 3.8.5
+  976  /Users/carl/.pyenv/versions/3.8.5/bin/python
+  977  pyenv shell 3.8.5
+  978  docker-compose exec web pytest .
+  979  source /opt/anaconda3/bin/activate
+  980  conda activate base
+  981  ls
+  982  cd fastapi-crud-async
+  983  git stash 
+  984  git stash all
+  985  git stash --all
+  986  git pull
+  987  poetry add jinja2 python-multipart
+  988  pip install fastapi.templating
+  989  pip install jinja2 python-multipart
+  990  poetry add jinja2 python-multipart\n
+  991  pip install jinja2 python-multipart --save
+  992  pip install jinja2 python-multipart
+  993  pip install fastapi
+  994  pip install fastapi.templating
+  995  poetry add fastapi uvicorn
+  996  pip install jinja2
+  997  pip install aiofiles
+  998  pip install babel
+  999  pip install uvicorn
+ 1000  source /opt/anaconda3/bin/activate
+ 1001  conda activate base
+ 1002  source /opt/anaconda3/bin/activate
+ 1003  conda activate base
+ 1004  conda deactivate
+ 1005  cd src
+ 1006  pip freeze > requirements.txt
+ 1007  cd ..
+ 1008  docker-compose up --build
+ 1009  docker system prune
+ 1010  docker-compose up --build
+ 1011  docker-compose exec tracer pytest .
+ 1012  docker-compose exec web pytest .
+ 1013  docker-compose exec tracer pytest .
+ 1014  docker-compose up --build
+ 1015  docker-compose exec tracer pytest .
+ 1016  docker-compose up --build
+ 1017  pip install datamodel-code-generator
+ 1018  cd Desktop
+ 1019  mkdir json_to_model
+ 1020  source /opt/anaconda3/bin/activate
+ 1021  conda activate base
+ 1022  conda deactivate
+ 1023  pip install datamodel-code-generator
+ 1024  datamodel-codegen  --input input/acft_bnkr.json --input-file-type jsonschema --output output/acft_bnkr.py\n
+ 1025  pip install genson
+ 1026  pip install jsonschema
+ 1027  python -m pyperf output/acft_bnkr.py --hist --output input_schema/acft_bnkr_schema.json
+ 1028  jsonschema -i output/acft_bnkr.py input_schema/acft_bnkr_schema.schema
+ 1029  jsonschema -i input/acft_bnkr.py input_schema/acft_bnkr_schema.schema
+ 1030  jsonschema -i input/acft_bnkr.json input_schema/acft_bnkr_schema.schema
+ 1031  datamodel-codegen  --input input/acft.json --input-file-type jsonschema --output output/acft_bnkr.py
+ 1032  docker-compose up --build
+ 1033  http --json POST http://localhost:8006/update/80523d22-5d1a-4a86-b3e4-cfa80d13c8e5/
+ 1034  http --json PUT http://localhost:8006/update/80523d22-5d1a-4a86-b3e4-cfa80d13c8e5/
+ 1035  curl --json PUT http://localhost:8006/update/80523d22-5d1a-4a86-b3e4-cfa80d13c8e5/
+ 1036  curl -X PUT http://localhost:8006/query/\n     -d "PUT request data"
+ 1037  curl -X PUT http://localhost:8006/query/\n    
+ 1038  curl -X PUT http://localhost:8006/query/
+ 1039  curl -X get http://localhost:8006/query/
+ 1040  curl -X get http://localhost:8006/query/acft_bnkr
+ 1041  curl -X get http://localhost:8006/query/
+ 1042  curl http://localhost:8006/query/
+ 1043  curl http://localhost:8006/query/acft_bnkr
+ 1044  curl get http://localhost:8006/query/acft_bnkr
+ 1045  curl get --json http://localhost:8006/query/acft_bnkr
+ 1046  curl --json GET http://localhost:8006/query/acft_bnkr
+ 1047  curl get http://localhost:8006/query/acft_bnkr
+ 1048  curl get http://localhost:8006/query/rr
+ 1049  curl -x get http://localhost:8006/query/rr
+ 1050  curl -x get http://localhost:8006/query/acft_bnkr/uuid/80523d22-5d1a-4a86-b3e4-cfa80d13c8e5/
+ 1051  curl -X POST http://localhost:8006/update -d "width=22"
+ 1052  curl -X POST http://localhost:8006/update/ -d "width=22"
+ 1053  curl --json POST http://localhost:8006/update/ -d "width=22"
+ 1054  curl -X POST http://localhost:8006/update/ -d "width=22"
+ 1055  curl -X POST http://localhost:8006/update/ -d width=1
+ 1056  curl -X POST http://localhost:8006/update/
+ 1057  curl -X POST http://localhost:8006/update/ -d id = ""
+ 1058  curl -X POST http://localhost:8006/update/ -d "id = """
+ 1059  docker-compose exec web pytest .
+ 1060  docker-compose exec tracer pytest .
+ 1061  docker-compose exec tracer pytest . -vv
+ 1062  ls
+ 1063  cd Desktop
+ 1064  mkdir sql_json
+ 1065  cd sql_json
+ 1066  sudo apt install postgressql-client
+ 1067  docker-compose exec tracer pytest . -vv
+ 1068  docker-compose up --build
+ 1069  docker-compose exec tracer pytest . -vv
+ 1070  /usr/bin/python
+ 1071  docker-compose exec tracer pytest . -vv
+ 1072  pip install asgi_lifespan
+ 1073  pip freeze > requirements.txt
+ 1074  docker-compose up --build
+ 1075  docker-compose exec tracer pytest . -vv
+ 1076  docker-compose up --build
+ 1077  docker-compose exec tracer pytest . -vv
+ 1078  source /opt/anaconda3/bin/activate
+ 1079  source /opt/anaconda3/bin/activateconda activate base
+ 1080  conda deactivate
+ 1081  docker-compose up --build
+ 1082  source /opt/anaconda3/bin/activate
+ 1083  conda activate base
+ 1084  conda docker-compose.yml
+ 1085  source /opt/anaconda3/bin/activate
+ 1086  conda activate base
+ 1087  conda deactivate
+ 1088  docker-compose exec tracer pytest . -vv
+ 1089  docker-compose up --build
+ 1090  docker-compose exec tracer pytest . -vv
+ 1091  docker-compose exec tracer pytest . 
+ 1092  cd Desktop
+ 1093  cd tracer
+ 1094  ls
+ 1095  cd tracer
+ 1096  ls
+ 1097  git checkout master
+ 1098  ls
+ 1099  git checkout tracer
+ 1100  source /opt/anaconda3/bin/activate
+ 1101  conda activate base
+ 1102  conda deactivate
+ 1103  cd tracer
+ 1104  git add --all
+ 1105  git commit -m 
+ 1106  cd ..
+ 1107  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/tracer-tester.git
+ 1108  ls
+ 1109  cd tracer-tester
+ 1110  ls
+ 1111  git branch tracer
+ 1112  git checkout tracer
+ 1113  git add ==all
+ 1114  git add --all
+ 1115  git commit -m "Updated readme"
+ 1116  git push
+ 1117  git push --set-upstream origin tracer
+ 1118  git status
+ 1119  source /opt/anaconda3/bin/activate
+ 1120  conda activate base
+ 1121  conda deactivate
+ 1122  cd tracer-tester
+ 1123  ls
+ 1124  docker-compose up --build
+ 1125  cd tracer-tester
+ 1126  git add --all
+ 1127  git commit -m "FastApi with crug and tests running on endpoints"
+ 1128  git push
+ 1129  git stqtaus
+ 1130  git status
+ 1131  docker-compose up
+ 1132  docker-compose exec tracer pytest .
+ 1133  git add --all
+ 1134  git commit -m "Removed API" 
+ 1135  git push
+ 1136  git status
+ 1137  git pull
+ 1138  source /opt/anaconda3/bin/activate
+ 1139  conda activate base
+ 1140  /opt/anaconda3/bin/python
+ 1141  docker-compose exec tracer pytest .
+ 1142  pip install pytest-asyncio
+ 1143  pip freeze > requirements.txt
+ 1144  docker-compose up --build
+ 1145  docker-compose exec tracer pytest .
+ 1146  git add --all
+ 1147  git commit -m "Updated structure, added test" 
+ 1148  git push 
+ 1149  git status
+ 1150  docker-compose exec tracer pytest .
+ 1151  git pull
+ 1152  git stash
+ 1153  docker-compose up --build
+ 1154  docker-compose exec tracer pytest .
+ 1155  docker-compose exec tracer pytest . -vv
+ 1156  cd tracer
+ 1157  git pull
+ 1158  docker-compose up 
+ 1159  ls
+ 1160  cd ..
+ 1161  cd tracer-tester
+ 1162  git status
+ 1163  docker-compose up 
+ 1164  docker-compose up --build
+ 1165  source /opt/anaconda3/bin/activate
+ 1166  conda activate base
+ 1167  conda deactivate
+ 1168  cd tracer-tester
+ 1169  pytest
+ 1170  pip install -r requirements.txt
+ 1171  cd src
+ 1172  pip install -r requirements.txt
+ 1173  pytest
+ 1174  cd ..
+ 1175  pytest
+ 1176  docker-compose up --build
+ 1177  docker-compose up --build -d
+ 1178  docker-compose exec tracer pytest .
+ 1179  docker-compose up --build 
+ 1180  docker-compose up --build -t
+ 1181  docker-compose up -t
+ 1182  docker-compose run -t
+ 1183  docker-compose up -t
+ 1184  docker-compose run -t
+ 1185  docker-compose up --build
+ 1186  docker-compose up --build --v
+ 1187  docker-compose up --build 
+ 1188  pytest
+ 1189  pytest .
+ 1190  cd src
+ 1191  pytest .
+ 1192  pytest -vv
+ 1193  cd .
+ 1194  cd..
+ 1195  cd ..
+ 1196  ls
+ 1197  docker-compose up --build
+ 1198  docker-compose exec tracer pytest . -vv
+ 1199  git add --all
+ 1200  git commit -m "Upated tests" 
+ 1201  git push
+ 1202  git pull
+ 1203  docker-compose exec tracer pytest . -vv
+ 1204  ls
+ 1205  docker-compose exec tracer pytest . -vv
+ 1206  docker-compose exec tracer pytest test_acft_bnkr -vv
+ 1207  docker-compose exec tracer pytest ./acft_bunker/test_acft_bnkr -vv
+ 1208  docker-compose exec tracer pytest tracer-tester/src/tests/acft_bunker/test_acft_bnkr.py -vv
+ 1209  docker-compose exec tracer pytest ./src/tests/acft_bunker/test_acft_bnkr.py -vv
+ 1210  docker-compose exec tracer pytest /tests/acft_bunker/test_acft_bnkr.py -vv
+ 1211  docker-compose exec tracer pytest ./tests/acft_bunker/test_acft_bnkr -vv
+ 1212  docker-compose exec tracer pytest . -vv
+ 1213  docker-compose exec tracer pytest ./tests/acft_bunker/test_acft_bnkr -vv
+ 1214  docker-compose exec tracer pytest . -vv
+ 1215  git add --all
+ 1216  git commit -m "Reformatted test file" 
+ 1217  git push
+ 1218  git pull
+ 1219  git pull -r
+ 1220  git status
+ 1221  git stash
+ 1222  git status
+ 1223  git pull
+ 1224  git pull -r
+ 1225  git status
+ 1226  git stash pop
+ 1227  git status
+ 1228  git add -p
+ 1229  git status
+ 1230  git add --all
+ 1231  git commit -m "Refromatted testing" 
+ 1232  git push
+ 1233  git stash --all
+ 1234  git stash 
+ 1235  git stash drop
+ 1236  cd tracer-tester
+ 1237  git add --all
+ 1238  git commit -m "Reformatted testing" 
+ 1239  git push
+ 1240  git status
+ 1241  brew install cloc
+ 1242  cloc .
+ 1243  source /opt/anaconda3/bin/activate
+ 1244  conda activate base
+ 1245  conda deactivate
+ 1246  source /opt/anaconda3/bin/activate
+ 1247  conda activate base
+ 1248  conda deactivate
+ 1249  git status
+ 1250  cd tracer-tester
+ 1251  git status
+ 1252  source /opt/anaconda3/bin/activate
+ 1253  conda activate base
+ 1254  conda deactivate
+ 1255  ls
+ 1256  cd tracer-tester
+ 1257  cd src
+ 1258  sudo docker build -t hello-demo .\n
+ 1259  pytest
+ 1260  pytest .
+ 1261  pytest tracer-tester/src/tests/acft_bnkr/test_acft_bnkr.py
+ 1262  pytest ./src/tests/acft_bnkr/test_acft_bnkr.py
+ 1263  pytest ./acft_bnkr/test_acft_bnkr
+ 1264  pytest ./acft_bnkr/test_acft_bnkr.py
+ 1265  pytest .
+ 1266  pytest -s tracer-tester/src/tests/acft_bnkr/test_acft_bnkr.py
+ 1267  pytest -s /Users/carl/Desktop/tracer-tester-scripts/tracer-tester/src/tests/acft_bnkr/test_acft_bnkr.py
+ 1268  pip install -r requirements.txt
+ 1269  pytest -s /Users/carl/Desktop/tracer-tester-scripts/tracer-tester/src/tests/acft_bnkr/test_acft_bnkr.py
+ 1270  pytest -s /Users/carl/Desktop/tracer-tester-scripts/tracer-tester/src/tests/
+ 1271  pytest -s /Users/carl/Desktop/tracer-tester-scripts/tracer-tester/src/tests/acft_bnkr/test_acft_bnkr.py::test_insert
+ 1272  cd tracer-tester
+ 1273  git pull
+ 1274  docker-compose exec tracer pytest . -vv
+ 1275  git add --all
+ 1276  git commit -m "Acft_bnkr update service and readme updated"
+ 1277  docker-compose exec tracer pytest ./tests/acft_bnkr/test_acft_bnkr::test_query -vv
+ 1278  docker-compose exec tracer pytest ./acft_bnkr/test_acft_bnkr::test_query -vv
+ 1279  docker-compose exec tracer pytest /usr/src/app/tests/acft_bnkr/test_acft_bnkr::test_query -vv
+ 1280  docker-compose exec tracer pytest /usr/src/app/tests/acft_bnkr/test_acft_bnkr.py::test_query -vv
+ 1281  docker-compose exec tracer pytest /usr/src/app/tests/acft_bnkr/test_acft_bnkr.py -vv
+ 1282  git add --all
+ 1283  git commit -m "Acft_bnkr update service and readme updated"
+ 1284  git push
+ 1285  git status
+ 1286  cd tracer-tester
+ 1287  git add --all
+ 1288  git commit -m "Updated readme to include paths" 
+ 1289  git push
+ 1290  git checkout master
+ 1291  git stash --all
+ 1292  git stash drop 
+ 1293  git stash 
+ 1294  git checkout master
+ 1295  git checkout gmi-db
+ 1296  cd Desktop
+ 1297  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/tracer-container.git
+ 1298  docker-container -ls
+ 1299  docker-container ls
+ 1300  docker container ls
+ 1301  docker kill 5d21e65f719e
+ 1302  docker kill b28cfe85d811
+ 1303  docker kill f5bb19b71ced
+ 1304  docker kill 65896311a3ab
+ 1305  docker container ls
+ 1306  cd tracer-container
+ 1307  docker-compose up -d
+ 1308  docker-compose up --build
+ 1309  docker image prune -a
+ 1310  docker-compose up --build
+ 1311  docker rm /midb-dev-db
+ 1312  docker rm /aero-dev-db
+ 1313  docker-compose up --build
+ 1314  docker-compose up -d
+ 1315  cd ..
+ 1316  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/tracer-deploy-scripts.git
+ 1317  cd tracer-deploy-scripts
+ 1318  ls
+ 1319  source /opt/anaconda3/bin/activate
+ 1320  conda activate base
+ 1321  conda deactivate
+ 1322  ls
+ 1323  psql -h localhost -U postgres -d midb -p 5435 -f complete.sql
+ 1324  psql -h localhost -U postgres -d midb -p 5435 -f build/complete.sql -o ~/complete.log > ~/complete.err 2>&1
+ 1325  chmod +x build_all.sh
+ 1326  source /opt/anaconda3/bin/activate
+ 1327  conda activate base
+ 1328  conda deactivate
+ 1329  chmod +x build_all.sh
+ 1330  psql -h localhost -U postgres -d midb -p 5435 -f build/complete.sql -o ~/complete.log > ~/complete.err 2>&1
+ 1331  psql -h localhost -U postgres -d midb -p 5435 -f complete.sql
+ 1332  psql -h localhost -U postgres -d postgres -p 5435 -f build/complete.sql -o ~/complete.log > ~/complete.err 2>&1
+ 1333  psql -h localhost -U postgres -d postgres -p 5435 -f build/acft_bnkr_insert.sql -o ~/complete.log > ~/complete.err 2>&1
+ 1334  psql -h localhost -U postgres -d postgres -p 5435 -f support-schema/routines/functions/get_activity.sql -o ~/complete.log > ~/complete.err 2>&1
+ 1335  cd ..
+ 1336  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/documents.git
+ 1337  cd documents
+ 1338  ls
+ 1339  git checkout procedure-conversion-spreadsheets
+ 1340  LS
+ 1341  git checkout branch procedure-conversion-spreadsheets 
+ 1342  git checkout procedure-conversion-spreadsheets --
+ 1343  ls
+ 1344  git pull
+ 1345  git branch -a
+ 1346  cd tracer-tester
+ 1347  git status
+ 1348  git pull
+ 1349  docker-compose up --build
+ 1350  source /opt/anaconda3/bin/activate
+ 1351  conda activate base
+ 1352  conda deactivat
+ 1353  conda deactivate
+ 1354  cd tracer-tester
+ 1355  docker-compose exec tracer pytest . -vv
+ 1356  cd .. 
+ 1357  cd tracer-deploy-scripts
+ 1358  git pull
+ 1359  source /opt/anaconda3/bin/activate
+ 1360  conda activate base
+ 1361  conda deactivate
+ 1362  git pull
+ 1363  cd .. 
+ 1364  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/midb-scripts.git
+ 1365  source /opt/anaconda3/bin/activate
+ 1366  conda activate base
+ 1367  conda deactivate 
+ 1368  git pull
+ 1369  source /opt/anaconda3/bin/activate
+ 1370  conda activate base
+ 1371  psql -h localhost -U postgres -d midb -p 5435 -f build/complete.sql -o ~/complete.log > ~/complete.err 2>&1 
+ 1372  chmod +x build_all.sh
+ 1373  ./build
+ 1374  cd ..
+ 1375  ./build_all.sh
+ 1376  psql -h localhost -U postgres -d midb -p 5435 -f build/complete.sql -o ~/complete.log > ~/complete.err 2>&1 
+ 1377  cd ..
+ 1378  ls
+ 1379  vi complete.log
+ 1380  ls
+ 1381  vi complete.err
+ 1382  psql --version
+ 1383  sudo apt-get install postgresql-client
+ 1384  sudo apt-get update
+ 1385  brew install libpq
+ 1386  brew link --force libpq ail
+ 1387  psql --version
+ 1388  brew list
+ 1389  sudo brew uninstall libpq
+ 1390  brew uninstall libpq
+ 1391  brew link --force libpq ail
+ 1392  brew install --cask postgres
+ 1393  psql -h localhost -U postgres -d midb -p 5435 -f build/complete.sql -o ~/complete.log > ~/complete.err 2>&1 
+ 1394  ls
+ 1395  vi complete.err
+ 1396  psql --version
+ 1397  . ~/.zshrc
+ 1398  psql --version
+ 1399  ls
+ 1400  psql --version
+ 1401  brew list
+ 1402  ls
+ 1403  cd ..
+ 1404  ls
+ 1405  cd /usr/local/var/postgres
+ 1406  cd /usr/local/var
+ 1407  ls
+ 1408  cd homebrew
+ 1409  ls
+ 1410  cd linked
+ 1411  ls
+ 1412  cd ..
+ 1413  ls
+ 1414  cd locks
+ 1415  ls
+ 1416  find / postgres -print
+ 1417  find / -name psql -print
+ 1418  cd ~
+ 1419  ls
+ 1420  brew uninstall libpq
+ 1421  brew list
+ 1422  brew install libpq
+ 1423  brew link --force libpq ail\n
+ 1424  brew list
+ 1425  ln -s /usr/local/Cellar/libpq/10.3/bin/psql /usr/local/bin/psql
+ 1426  brew list
+ 1427  brew link --force libpq ail\n
+ 1428  brew link --force libpq \n
+ 1429  brew link --force libpq ail\n
+ 1430  psql --version
+ 1431  psql -h localhost -U postgres -d midb -p 5435 -f build/complete.sql -o ~/complete.log > ~/complete.err 2>&1 
+ 1432  ls
+ 1433  vi complete.log
+ 1434  vi complete.err
+ 1435  cd Desktop
+ 1436  cd tracer-deploy-scripts
+ 1437  psql -h localhost -U postgres -d midb -p 5435 -f build/complete.sql -o ~/complete.log > ~/complete.err 2>&1 
+ 1438  vi complete.log
+ 1439  ls
+ 1440  vi complete.log
+ 1441  cd tracer-tester
+ 1442  docker-compose exec tracer pytest . -vv
+ 1443  docker container -a
+ 1444  docker container -ls
+ 1445  docker container ls
+ 1446  docker kill 8de079a15de7
+ 1447  docker-compose up --build
+ 1448  source /opt/anaconda3/bin/activate
+ 1449  conda activate base
+ 1450  conda deactivate
+ 1451  cd tracer-tester
+ 1452  docker-compose exec tracer pytest . -vv
+ 1453  docker-compose exec tracer pytest /usr/src/app/tests/insert_fac/insert_fac.py.py 
+ 1454  docker-compose exec tracer pytest /usr/src/app/tests/acft_bnkr/insert_fac.py.py 
+ 1455  docker-compose exec tracer pytest /usr/src/app/tests/acft_bnkr/insert_fac.py
+ 1456  docker-compose exec tracer pytest /usr/src/app/tests/insert_fac/insert_fac.py
+ 1457  docker-compose exec tracer pytest . -vv
+ 1458  docker-compose exec tracer pytest /usr/src/app/tests/insert_fac/insert_fac.py
+ 1459  docker-compose exec tracer pytest . -vv
+ 1460  docker-compose exec tracer pytest  -vv
+ 1461  docker-compose exec tracer pytest ./insert_fac -vv
+ 1462  docker-compose exec tracer pytest /usr/src/app/tests/insert_fac
+ 1463  docker-compose exec tracer pytest /usr/src/app/tests
+ 1464  docker-compose exec tracer pytest /usr/src/app/tests/insert_fac
+ 1465  docker-compose exec tracer pytest /usr/src/app/tests/insert_fac/insert_fac.py
+ 1466  git add --all 
+ 1467  source /opt/anaconda3/bin/activate
+ 1468  conda activate base
+ 1469  conda deactivate
+ 1470  git branch test-function
+ 1471  git checkout test-function
+ 1472  git add --all
+ 1473  git commit -m "Updated README and added test_function"
+ 1474  git push
+ 1475  git push --set-upstream origin test-function
+ 1476  git add --all
+ 1477  git commit -m "Updated function name"
+ 1478  git push
+ 1479  docker-compose exec tracer pytest /usr/src/app/tests/insert_fac/insert_fac.py
+ 1480  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_function.py
+ 1481  psql -h localhost -U postgres -d midb -p 5435 -f build/complete.sql -o ~/complete.log > ~/complete.err 2>&1 
+ 1482  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_function.py
+ 1483  git add --all
+ 1484  git commit -m "Changed test_function"
+ 1485  git push
+ 1486  git add --all
+ 1487  git commit -m "Working test" 
+ 1488  git push
+ 1489  source /opt/anaconda3/bin/activate
+ 1490  conda activate base
+ 1491  conda deactivate
+ 1492  cd tracer-tester
+ 1493  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_test_function.py
+ 1494  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_test_function.py::test
+ 1495  git add --all
+ 1496  git commit -m "Updated readme"
+ 1497  git push
+ 1498  git checkout master
+ 1499  git pull
+ 1500  source /opt/anaconda3/bin/activate
+ 1501  conda activate base
+ 1502  conda deactivate
+ 1503  cd tracer-tester
+ 1504  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_get_activity.py
+ 1505  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_get_fac_sk.py
+ 1506  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_get_icao_sector.py
+ 1507  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_get_review_date.py
+ 1508  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_get_info_currency_date.py
+ 1509  git pull
+ 1510  psql -h localhost -U postgres -d midb -p 5435 -f build/complete.sql -o ~/complete.log > ~/complete.err 2>&1 
+ 1511  cd Desktop
+ 1512  ls
+ 1513  cd documents/procedure-conversion-spreadsheets
+ 1514  ls
+ 1515  cd ..
+ 1516  git pull
+ 1517  git add --all
+ 1518  git commit -m "Claimed getDatetime.sql"
+ 1519  git push
+ 1520  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_get_datetime.py
+ 1521  source /opt/anaconda3/bin/activate
+ 1522  conda activate base
+ 1523  git pull
+ 1524  git branch GetDatetime
+ 1525  git checkout GetDatetime
+ 1526  git status
+ 1527  git add --all
+ 1528  git commit -m "Finished Get_Datetime function"
+ 1529  git push
+ 1530  conda deactivate
+ 1531  git status
+ 1532  git checkout master
+ 1533  git pull
+ 1534  git status
+ 1535  git add --all
+ 1536  git commit -m "Added tests" 
+ 1537  git push
+ 1538  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_get_datetime.py
+ 1539  pytest tracer-tester/src/tests/test_function/test_get_datetime.py
+ 1540  ls
+ 1541  cd src
+ 1542  ls
+ 1543  cd ..
+ 1544  pytest src/tests/test_function/test_get_datetime.py
+ 1545  git pull
+ 1546  git add --all
+ 1547  git commit -m "Claimed BuildCoordString"
+ 1548  git push
+ 1549  git pull
+ 1550  git stash
+ 1551  git stash drop
+ 1552  git pull
+ 1553  git statys
+ 1554  git status
+ 1555  source /opt/anaconda3/bin/activate
+ 1556  conda activate base
+ 1557  cd tracer-tester
+ 1558  conda deactivate
+ 1559  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_get_datetime.py
+ 1560  source /opt/anaconda3/bin/activate
+ 1561  conda activate base
+ 1562  conda deactivate
+ 1563  git pull
+ 1564  git status
+ 1565  source /opt/anaconda3/bin/activate
+ 1566  conda activate base
+ 1567  git pull
+ 1568  git status
+ 1569  git add --all
+ 1570  git commit -m "Claimed handlecoord"
+ 1571  git push
+ 1572  git pull
+ 1573  docker-compose down
+ 1574  docker-compose up --build
+ 1575  source /opt/anaconda3/bin/activate
+ 1576  conda activate base
+ 1577  git pull
+ 1578  psql -h localhost -U postgres -d midb -p 5435 -f build/complete.sql -o ~/complete.log > ~/complete.err 2>&1
+ 1579  docker-compose up
+ 1580  docker-compose up -d
+ 1581  cd Desktop
+ 1582  grep -nr "exec" sp_airport_rs_insert.txt > output.txt
+ 1583  git pull
+ 1584  git checkout get_cc
+ 1585  git puill
+ 1586  git pull
+ 1587  git checkout get_cc
+ 1588  docker-compose up 
+ 1589  docker-compose up -d
+ 1590  git checkout master
+ 1591  git branch BuildCoord
+ 1592  git checkout BuildCoord
+ 1593  git checkout master
+ 1594  git pull
+ 1595  git checkout BuildCoord
+ 1596  git checkout master
+ 1597  git pull
+ 1598  git checkout BuildCoord 
+ 1599  git merge master
+ 1600  git add --all
+ 1601  git commit -m "get_coord_string and get_coord being worked on"
+ 1602  git push
+ 1603  git push --set-upstream origin BuildCoord
+ 1604  git status
+ 1605  git checkout master
+ 1606  git checkout BuildCoord
+ 1607  git checkout master
+ 1608  git checkout BuildCoord
+ 1609  git checkout get_relative_ranking
+ 1610  git checkout master
+ 1611  git pull 
+ 1612  git checkout \nget_relative_ranking
+ 1613  git pull
+ 1614  git checkout master 
+ 1615  git branch HandleElevation
+ 1616  git checkout HandleElevation
+ 1617  git add --all
+ 1618  git commit -m "Added get_elevation_um and get_new_elevation to replace HandleElevation"
+ 1619  git push
+ 1620  git pull
+ 1621  git stash 
+ 1622  git stash --all
+ 1623  git stash drop 
+ 1624  git pull
+ 1625  source /opt/anaconda3/bin/activate
+ 1626  conda activate base
+ 1627  conda deactivate
+ 1628  git status
+ 1629  git checkout master
+ 1630  git pull
+ 1631  git status
+ 1632  git checkout HandleElevation
+ 1633  git pull
+ 1634  ls
+ 1635  git status
+ 1636  git pull
+ 1637  git checkout master
+ 1638  git pull
+ 1639  source /opt/anaconda3/bin/activate
+ 1640  conda activate base
+ 1641  conda deactivate
+ 1642  ls
+ 1643  git pull
+ 1644  git status
+ 1645  git stash 
+ 1646  git stash --all
+ 1647  git stash pop
+ 1648  git status
+ 1649  git pull
+ 1650  git status
+ 1651  git stash 
+ 1652  git stash pop
+ 1653  git stash 
+ 1654  git pull
+ 1655  git status
+ 1656  python --version
+ 1657  cd Desktop
+ 1658  cd Python_Learning
+ 1659  pip install cookiecutter
+ 1660  pip3 install cookiecutter
+ 1661  pip install cookiecutter
+ 1662  cookiecutter https://github.com/pybee/Python-iOS-template --checkout 3.7
+ 1663  ls
+ 1664  cd Desktop
+ 1665  source /opt/anaconda3/bin/activate
+ 1666  conda activate base
+ 1667  conda deactivate
+ 1668  python PythonLearning.py
+ 1669  ls
+ 1670  mkdir kivy-app
+ 1671  cd kivy-app
+ 1672  python3 -m venv my_kivy_project
+ 1673  source bin/ativate
+ 1674  cd my_kivy_project
+ 1675  source bin/ativate
+ 1676  ls
+ 1677  source bin/ativate
+ 1678  source ./bin/ativate
+ 1679  source bin/activate
+ 1680  python -m pip install kivy
+ 1681  /Users/carl/Desktop/Python_Learning/kivy-app/my_kivy_project/bin/python -m pip install --upgrade pip
+ 1682  python -m pip install kivy
+ 1683  ls
+ 1684  mkdir pong
+ 1685  cd pong
+ 1686  touch main.py
+ 1687  vi main.py
+ 1688  python main.py
+ 1689  vi
+ 1690  ls
+ 1691  vi main.py
+ 1692  python main.py
+ 1693  vi main.py
+ 1694  python main.py
+ 1695  touch main2.py
+ 1696  vi main2.py
+ 1697  python main2.py
+ 1698  ls
+ 1699  python PythonLearning.py
+ 1700  ls
+ 1701  python main.py
+ 1702  ls
+ 1703  cd ..
+ 1704  cd PongApp
+ 1705  touch pong.kv
+ 1706  python main.py
+ 1707  cd Desktop
+ 1708  mkdir carlgragg
+ 1709  cd carlgragg
+ 1710  git clone https://github.com/carlgragg7/website.git
+ 1711  ls
+ 1712  cd ..
+ 1713  mkdir danajone
+ 1714  cd danajone
+ 1715  git clone https://github.com/carlgragg7/headandheartfloral.git
+ 1716  ls
+ 1717  cd headandheartfloral
+ 1718  git add --all
+ 1719  git commit -m "added angular"
+ 1720  git push
+ 1721  ls
+ 1722  git status
+ 1723  git remote add origin https://github.com/carlgragg7/headandheartfloral.git
+ 1724  ls
+ 1725  vi README.md
+ 1726  ng serve
+ 1727  npm install
+ 1728  ng serve
+ 1729  npm install -g @angular/cli\n
+ 1730  source /opt/anaconda3/bin/activate
+ 1731  conda activate base
+ 1732  conda deactivate
+ 1733  ng serve
+ 1734  npm install
+ 1735  ng serve
+ 1736  npm install -g angular-cli
+ 1737  sudo npm install -g angular-cli
+ 1738  ng serve
+ 1739  cd src
+ 1740  ng serve
+ 1741  cd ..
+ 1742  serve
+ 1743  ng build
+ 1744  cd src
+ 1745  ng build
+ 1746  cd app
+ 1747  ng build
+ 1748  ls
+ 1749  git status
+ 1750  git add --all
+ 1751  git commit -m "Updated site"
+ 1752  git stash --all
+ 1753  git stash drop
+ 1754  git add --all
+ 1755  git commit -m "Updated site"
+ 1756  git push
+ 1757  git stash --all
+ 1758  git push\n: 1616339507:0;git push
+ 1759  git add --all
+ 1760  git commit -m "Updated"
+ 1761  git push
+ 1762  git status
+ 1763  cd ..
+ 1764  ls
+ 1765  cd ..
+ 1766  git stash
+ 1767  git add --all
+ 1768  git commit -m "New Update"
+ 1769  git push
+ 1770  git reset --hard HEAD^
+ 1771  git add --all
+ 1772  git commit -m "New Update"
+ 1773  git status
+ 1774  git push
+ 1775  git status
+ 1776  git pull
+ 1777  git status
+ 1778  git rm -r --cached node_modules
+ 1779  git status
+ 1780  git add --all
+ 1781  git commit -m "removed node"
+ 1782  git push 
+ 1783  git add --all
+ 1784  git commit -m "Updated drawer" 
+ 1785  git push 
+ 1786  ng serve
+ 1787  serve
+ 1788  npm start
+ 1789  sh -c ng serve
+ 1790  ng build
+ 1791  npm i
+ 1792  sudo npm install
+ 1793  ng build
+ 1794  ng
+ 1795  npm star
+ 1796  npm start
+ 1797  git status 
+ 1798  git add --all
+ 1799  git commit -m "Removed drawer"
+ 1800  git push
+ 1801  git status
+ 1802  git pull
+ 1803  git status
+ 1804  git pull
+ 1805  git status
+ 1806  git pull
+ 1807  ls
+ 1808  cd Documents
+ 1809  ls
+ 1810  cd ..
+ 1811  ls
+ 1812  cd Desktop
+ 1813  ls
+ 1814  cd documents
+ 1815  ls
+ 1816  git pull
+ 1817  git status
+ 1818  ls
+ 1819  cd procedure-conversion-spreadsheets
+ 1820  ls
+ 1821  vi common-procedures-conversion-status.csv
+ 1822  ls
+ 1823  cd ..
+ 1824  git status
+ 1825  git add --all
+ 1826  git commit -m "Claimed HandleDelete"
+ 1827  git push
+ 1828  git status
+ 1829  git branch -a
+ 1830  git checkout -insert-airport
+ 1831  git checkout insert_airport
+ 1832  git branch -a
+ 1833  git stash
+ 1834  git stash --all
+ 1835  git status
+ 1836  git pull
+ 1837  git branch -a 
+ 1838  git checkout airport_insert
+ 1839  git pull
+ 1840  git checkout airport_insert
+ 1841  git branch -a
+ 1842  git checkout HandleElevation
+ 1843  cd ..
+ 1844  git clone https://github.com/kivy/kivy-ios.git
+ 1845  cd kivy-ios
+ 1846  ls
+ 1847  xcode-select --install\n
+ 1848  cd Desktop
+ 1849  cd kivy-ios
+ 1850  . venv/bin/activate
+ 1851  brew install autoconf automake libtool pkg-config\n
+ 1852  brew link libtool\n
+ 1853  toolchain build python3 kivy
+ 1854  toolchain build python3 openssl kivy
+ 1855  sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer/
+ 1856  toolchain clean openssl
+ 1857  toolchain build python3 kivy
+ 1858  cd Desktop
+ 1859  ls
+ 1860  mkdir kivy-apps
+ 1861  cd kivy-apps
+ 1862  python -m pip install --upgrade pip wheel setuptools\n
+ 1863  python -m pip install docutils pygments pypiwin32 kivy.deps.sdl2 kivy.deps.glew\n
+ 1864  python -m pip install kivy
+ 1865  mkdir firstApp
+ 1866  cd firstApp
+ 1867  touch main.py
+ 1868  vi main.py
+ 1869  ls
+ 1870  python3 main.py
+ 1871  vi main.py 
+ 1872  python3 main.py
+ 1873  python main.py
+ 1874  cdsource /opt/anaconda3/bin/activate
+ 1875  ls
+ 1876  cd newWebsite
+ 1877  git clone https://github.com/sketch7/angular-skeleton-app.git
+ 1878  ls
+ 1879  cd angular-skeleton-app
+ 1880  npm start
+ 1881  npm install
+ 1882  npm start
+ 1883  source /opt/anaconda3/bin/activate
+ 1884  conda activate base
+ 1885  pip install -r requirements.txt
+ 1886  cd src
+ 1887  pip install -r requirements.txt
+ 1888  conda de
+ 1889  conda deactivate
+ 1890  cd ..
+ 1891  pip install -r src/requirements.txt
+ 1892  /Users/carl/Desktop/tracer/tracer-tester/venv/bin/python3 -m pip install --upgrade pip
+ 1893  ls
+ 1894  python3 src/db.py
+ 1895  pytest src/tests/acft_bnkr/test_acft_bnkr.py
+ 1896  pytest src/tests/test_function/test_get_datetime.py
+ 1897  cd Desktop
+ 1898  psycogTester
+ 1899  mkdir psycogTester
+ 1900  cd psycogTester
+ 1901  cd Desktop
+ 1902  cd psycogTester
+ 1903  pip install testing.postgresql
+ 1904  testing.postgresql.Postgresql
+ 1905  touch db.py
+ 1906  testing.postgresql.Postgresql
+ 1907  ls
+ 1908  git pull
+ 1909  git status
+ 1910  git checkout master
+ 1911  git pull
+ 1912  git status
+ 1913  source /opt/anaconda3/bin/activate
+ 1914  conda activate base
+ 1915  conda deactivate
+ 1916  cd ..
+ 1917  cd python_mcat_api
+ 1918  cd ..
+ 1919  cd psycogTester
+ 1920  mkdir pgTap
+ 1921  cd pgTap
+ 1922  git clone https://github.com/theory/pgtap.git
+ 1923  cd pgtap
+ 1924  make
+ 1925  gmake
+ 1926  gmake install\n
+ 1927  make install
+ 1928  make installcheck\n
+ 1929  env NO_PGXS=1 make && make install && make installcheck\n
+ 1930  make
+ 1931  cpan TAP::Parser::SourceHandler::pgTAP
+ 1932  cd . 
+ 1933  cd Desktop
+ 1934  cd Git-Reps
+ 1935  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/tracer-deploy-scripts.git
+ 1936  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/documents.git
+ 1937  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/tracer-tester.git
+ 1938  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/tracer-container.git
+ 1939  cd Desktop
+ 1940  cd Git-Reps
+ 1941  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/midb-scripts.git
+ 1942  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/tracer-container.git
+ 1943  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/midb-scripts.git
+ 1944  cd ..
+ 1945  cd midb-scripts
+ 1946  git pull
+ 1947  git status
+ 1948  docker-compose up --build
+ 1949  source /opt/anaconda3/bin/activate
+ 1950  conda activate base
+ 1951  conda deactivate
+ 1952  cd D
+ 1953  cd Desktop
+ 1954  git clone 
+ 1955  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/tracer.git
+ 1956  source /opt/anaconda3/bin/activate
+ 1957  conda activate base
+ 1958  conda deactivate
+ 1959  docker-compose up --build
+ 1960  ls
+ 1961  cd db
+ 1962  ls
+ 1963  cd tester
+ 1964  docker-compose up --build
+ 1965  docker -ls
+ 1966  docker container -ls
+ 1967  docker container -a
+ 1968  docker container ls
+ 1969  docker kill 2ab977222052
+ 1970  docker container ls
+ 1971  docker-compose up --build
+ 1972  source /opt/anaconda3/bin/activate
+ 1973  conda activate base
+ 1974  conda deactivate
+ 1975  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_get_activity.py
+ 1976  cd db
+ 1977  ls
+ 1978  cd tester
+ 1979  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_get_activity.py
+ 1980  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_append_suffix.py
+ 1981  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_get_activity.py
+ 1982  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_append_suffix.py
+ 1983  git pull
+ 1984  git branch tester
+ 1985  git checkout tester 
+ 1986  git add --all
+ 1987  git commit -m "Updated tester" 
+ 1988  git push 
+ 1989  git push --set-upstream origin tester
+ 1990  git status
+ 1991  git checkout master
+ 1992  git pull
+ 1993  cd documents
+ 1994  git pull
+ 1995  git checkout master
+ 1996  git pull
+ 1997  git status
+ 1998  git branch test-coverage
+ 1999  git stash 
+ 2000  git stash --all
+ 2001  git stash drop
+ 2002  git pull
+ 2003  git checkout test-coverage
+ 2004  ls
+ 2005  git stsatus
+ 2006  git status
+ 2007  git checkout master
+ 2008  git checkout test-coverage
+ 2009  git checkout master
+ 2010  git pull
+ 2011  cd Desktop
+ 2012  mkdir ios_app
+ 2013  cd ios_app
+ 2014  npm install -g nativescript
+ 2015  sudo npm install -g nativescript
+ 2016  npx degit halfnelson/svelte-native-template my-mobile-app\n
+ 2017  cd my-mobile-app\n
+ 2018  npm install\n
+ 2019  ns run android\n
+ 2020  tns device ios -- available-devices
+ 2021  ns run android\n
+ 2022  ns run ios\n
+ 2023  cd ..
+ 2024  npx degit halfnelson/svelte-native-template todoapp
+ 2025  cd todoapp
+ 2026  npm install
+ 2027  source /opt/anaconda3/bin/activate
+ 2028  cconda activate base
+ 2029  conda deactivTE
+ 2030  conda deactivate
+ 2031  cd my-mobile-app
+ 2032  ns run ios\n
+ 2033  tns run ios\n
+ 2034  ns run ios\n
+ 2035  sudo xcode-select --reset\n
+ 2036  ns run ios\n
+ 2037  cd ..
+ 2038  ls
+ 2039  cd todoapp
+ 2040  ns run ios\n
+ 2041  pod install
+ 2042  tns doctor
+ 2043  git pull
+ 2044  git branch OldTests
+ 2045  git checkout 
+ 2046  git checkout OldTest
+ 2047  git checkout OldTests
+ 2048  git add --all
+ 2049  git commit -m "Added get_fac, get_icao_sector, get_infor_currency_date, get_review_date tests"
+ 2050  git push
+ 2051  git status
+ 2052  git pull
+ 2053  git stash 
+ 2054  git stash drop
+ 2055  git pull
+ 2056  git stash 
+ 2057  git pull
+ 2058  git add --all 
+ 2059  git commit -m "Added 5 tests" 
+ 2060  git push
+ 2061  history
+ 2062  git pull
+ 2063  docker stats
+ 2064  docker-compose down
+ 2065  ls
+ 2066  cd db
+ 2067  ls
+ 2068  cd tester
+ 2069  docker-compose down
+ 2070  docker-compose up --build
+ 2071  source /opt/anaconda3/bin/activate
+ 2072  conda activate base
+ 2073  conda dev-env
+ 2074  conda deactivate
+ 2075  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_get_fac_sk.py
+ 2076  cd db
+ 2077  ls
+ 2078  cd tester
+ 2079  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_get_fac_sk.py
+ 2080  git status
+ 2081  git add --all 
+ 2082  git commit -m "Updated main.py"
+ 2083  git push 
+ 2084  git status
+ 2085  git checkout get_qty_oh
+ 2086  git checkout get_qty_tests
+ 2087  git pull
+ 2088  git checkout get_qty_tests
+ 2089  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_get_qty_oh.py
+ 2090  git pull
+ 2091  git stash 
+ 2092  git pull
+ 2093  git checkout OldTests
+ 2094  docker-compose exec tracer pytest /usr/src/app/tests/test_function
+ 2095  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_get_info_currency_date.py
+ 2096  git checkout get_qty_tests
+ 2097  git add  --all
+ 2098  git commit -m "updated tests"
+ 2099  git push
+ 2100  git checkout master
+ 2101  isinstance(1,str)
+ 2102  git pull
+ 2103  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_get_activity.py
+ 2104  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_convert_var.py
+ 2105  git pull
+ 2106  git checkout convert_var
+ 2107  git checkout -b convert_var
+ 2108  git add --all
+ 2109  git commit -m "Finished converter"
+ 2110  git push
+ 2111  git checkout master
+ 2112  git pull
+ 2113  git checkout convert_var
+ 2114  git checkout master
+ 2115  git merge convert_var
+ 2116  git status
+ 2117  git log
+ 2118  git status
+ 2119  git reset
+ 2120  git status
+ 2121  git log
+ 2122  git reset --mixed 1c8bb963262c1ff29f3ee7c040dd6946de92ebe5
+ 2123  git status
+ 2124  git log
+ 2125  git stash
+ 2126  git pull
+ 2127  git status
+ 2128  git stash drop
+ 2129  git status
+ 2130  git checkout -b conv_var
+ 2131  git add --all
+ 2132  git commit -m "Conv var" 
+ 2133  git push 
+ 2134  git checkout master
+ 2135  git stataus
+ 2136  git status
+ 2137  git pull
+ 2138  git checkout -b "get_qty_tests" "origin/get_qty_tests"\n
+ 2139  git checkout get_qty_tests
+ 2140  git checkout master
+ 2141  git pull
+ 2142  git branch -a
+ 2143  git checkout OldTests
+ 2144  git stash
+ 2145  git rebase master
+ 2146  docker exec tracer-tester pytest /src/tests/test_function/
+ 2147  docker-compose exec tracer pytest /usr/src/app/tests/test_function/
+ 2148  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_convert_var.py
+ 2149  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_append_suffix.py
+ 2150  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_get_activity.py
+ 2151  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_get_fac.py
+ 2152  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_get_fac_sk.py
+ 2153  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_get_icao_sector.py
+ 2154  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_get_info_currency.py
+ 2155  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_get_info_currency_date.py
+ 2156  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_get_review_date.py
+ 2157  docker-compose exec tracer pytest /usr/src/app/tests/test_function/test_get_info_currency_date.py
+ 2158  git pull
+ 2159  ls
+ 2160  git status
+ 2161  git pull
+ 2162  git add --all 
+ 2163  git commit -m "Added new resource to tests" 
+ 2164  git push 
+ 2165  gits status
+ 2166  docker rm -f $(docker ps -a -q)
+ 2167  docker -a
+ 2168  docker container -a
+ 2169  docker container -ls
+ 2170  docker status
+ 2171  cd tr
+ 2172  cd Desktop
+ 2173  cd tr
+ 2174  cd tracer
+ 2175  ls
+ 2176  cd db
+ 2177  docker-compose up --build
+ 2178  git checkout master
+ 2179  git pull
+ 2180  git ls
+ 2181  ls
+ 2182  git status
+ 2183  cd ..
+ 2184  cd dev-env
+ 2185  docker-compose up --build
+ 2186  docker-compose up -d
+ 2187  deploy_to_db.sh
+ 2188  ./deploy_to_db.sh
+ 2189  cd ..
+ 2190  ./deploy_to_db.sh
+ 2191  ./clean_all.sh
+ 2192  ./build_all.sh
+ 2193  psql -h localhost -U postgres -d midb -p 5435 -f build/complete.sql -o ~/complete.log > ~/complete.err 2>&1
+ 2194  docker container -ls
+ 2195  docker container ls
+ 2196  cd d
+ 2197  cd db
+ 2198  ls
+ 2199  cd tester
+ 2200  ls
+ 2201  docker-compose up --buiold
+ 2202  docker-compose up --build
+ 2203  source /opt/anaconda3/bin/activate
+ 2204  gitconda activate base
+ 2205  conda deactivate
+ 2206  git pull
+ 2207  git checkout test-function-runner
+ 2208  git pull
+ 2209  docker exec tracer-tester pytest /src/tests/test_function/test_get_qty_oh_eval.py
+ 2210  git checkout master
+ 2211  git pull
+ 2212  git checkout OldTests
+ 2213  git rebase master
+ 2214  docker exec tracer-tester pytest /src/tests/test_function
+ 2215  ls
+ 2216  git pull
+ 2217  git add --all
+ 2218  git status
+ 2219  ls
+ 2220  cd db
+ 2221  ls
+ 2222  cd tester
+ 2223  ls
+ 2224  docker-compose exec tracer pytest /usr/src/app/tests/test_function/
+ 2225  docker-compose exec tracer pytest src/app/tests/test_function/
+ 2226  ls
+ 2227  docker exec tracer-tester pytest /src/tests/test_function
+ 2228  git pull
+ 2229  git add --all
+ 2230  git checkout OldTests
+ 2231  git commit -m "Removed unused functions"
+ 2232  git push
+ 2233  git checkout -b removed_functions
+ 2234  git add --all
+ 2235  git commit -m "Updated older tests and removed unused functions" 
+ 2236  git push
+ 2237  git status
+ 2238  git rebase --continue
+ 2239  git checkout OldTests
+ 2240  git rebase --continue
+ 2241  git rebase --abort
+ 2242  git checkout removed_functions
+ 2243  git status
+ 2244  docker-compose exec tracer pytest src/app/tests/test_function/test_append_suffix.py
+ 2245  docker exec tracer-tester pytest /src/tests/test_function/test_append_suffix.py
+ 2246  docker exec tracer-tester pytest /src/tests/test_function/test_append_suffix.py -v
+ 2247  docker exec tracer-tester pytest /src/tests/test_function/test_get_fac_sk.py
+ 2248  ource /opt/anaconda3/bin/activate
+ 2249  conda activate base
+ 2250  /opt/anaconda3/bin/python
+ 2251  ource /opt/anaconda3/bin/activate
+ 2252  conda activate base
+ 2253  docker exec tracer-tester pytest . -vv `
+ 2254  docker exec tracer-tester pytest . -vv 
+ 2255  git add --all 
+ 2256  git commit -m "Changing function_runner" 
+ 2257  git push
+ 2258  git checkout master
+ 2259  git pull
+ 2260  git status
+ 2261  git branch -a
+ 2262  git checkout deploy-script
+ 2263  git pull
+ 2264  ./build-dev-env.sh
+ 2265  docker stats
+ 2266  docker container -ls
+ 2267  ls
+ 2268  cd dev-env
+ 2269  ls
+ 2270  docker-compose down
+ 2271  ./build-dev-env.sh
+ 2272  ../build-dev-env.sh
+ 2273  cd ..
+ 2274  ./build-dev-env.sh
+ 2275  docker contianer ls
+ 2276  docker container ls
+ 2277  docker exec tracer-tester pytest . -vv 
+ 2278  docker exec tracer-tester pytest /src/tests/test_function/test_get_activity.py
+ 2279  git checkout removed_functions
+ 2280  git stash 
+ 2281  git checkout removed_functions
+ 2282  docker exec tracer-tester pytest /src/tests/test_function/test_get_fac_sk.py
+ 2283  git add --all
+ 2284  git commit -m "Updated older tests"
+ 2285  git push 
+ 2286  git checkout master
+ 2287  git pull
+ 2288  git status
+ 2289  git checkout removed_functions
+ 2290  git pull
+ 2291  git checkout master
+ 2292  git pull
+ 2293  git checkout master
+ 2294  git checkout removed_functions
+ 2295  git pull
+ 2296  git status
+ 2297  git rebase master
+ 2298  git checkout master
+ 2299  git rebase --abort
+ 2300  git rebase master
+ 2301  git rebase --abort
+ 2302  git rebase master
+ 2303  git add --all
+ 2304  git commit -m "Rebased" 
+ 2305  git push 
+ 2306  git pull
+ 2307  git stash 
+ 2308  git rebase --abort
+ 2309  git status
+ 2310  git push
+ 2311  git status
+ 2312  git checkout master
+ 2313  git pull
+ 2314  git checkout removed_functions
+ 2315  git status
+ 2316  docker exec tracer-tester pytest /src/tests/test_function
+ 2317  git add --all
+ 2318  git commit -m "Updated test - all are working"
+ 2319  git push
+ 2320  docker exec tracer-tester pytest /src/tests/test_function
+ 2321  git checkout master
+ 2322  git pull
+ 2323  git status
+ 2324  git checkout removed_functions
+ 2325  git pull
+ 2326  git status
+ 2327  docker exec tracer-tester pytest /src/tests/test_function
+ 2328  git checkout masdter
+ 2329  git checkout master
+ 2330  git pull
+ 2331  git branch -a
+ 2332  git pull
+ 2333  git checkout airport_insert
+ 2334  git pull
+ 2335  git checkout removed_functions
+ 2336  docker exec tracer-tester pytest /src/tests/test_function/test_get_fac_sk.py
+ 2337  git add --all
+ 2338  git commit -m "Added temporary insert_fac function for test_get_fac_sk.py" 
+ 2339  git push 
+ 2340  git status
+ 2341  docker exec tracer-tester pytest /src/tests/test_function/test_get_fac_sk.py
+ 2342  git add --all
+ 2343  git commit -m "Added fac_sk insert and delete to conftest"
+ 2344  git push
+ 2345  git status
+ 2346  git checkout master
+ 2347  git pull
+ 2348  git status
+ 2349  git checkout master
+ 2350  git checkout removed_functions
+ 2351  ls
+ 2352  git status
+ 2353  git checkout master
+ 2354  git pull
+ 2355  git status
+ 2356  git add --all
+ 2357  git stash
+ 2358  git pull
+ 2359  git add --all
+ 2360  git commit -m "Testing get_classification"
+ 2361  git push
+ 2362  git checkout -b get_classification
+ 2363  docker exec tracer-tester pytest /src/tests/test_function/test_get_classification.py
+ 2364  git status
+ 2365  git branch -a
+ 2366  git add --all
+ 2367  git commit -m "Testing get_condition"
+ 2368  git add --all
+ 2369  git push
+ 2370  git add --all
+ 2371  git commit -m "Testing get_condition"
+ 2372  git push
+ 2373  git add --all
+ 2374  git commit -m "Testing get_xref with condition"
+ 2375  git push
+ 2376  docker exec tracer-tester pytest /src/tests/test_function/test_get_condition.py
+ 2377  docker exec tracer-tester pytest /src/tests/test_function/test_get_xref.py
+ 2378  docker exec tracer-tester pytest /src/tests/test_function/test_get_condition.py
+ 2379  docker exec tracer-tester pytest /src/tests/test_function/test_get_xref.py
+ 2380  docker exec tracer-tester pytest /src/tests/test_function/test_get_condition.py
+ 2381  docker exec tracer-tester pytest /src/tests/test_function/test_get_xref.py
+ 2382  git pull
+ 2383  git add --all
+ 2384  git commit -m "Testing get_eqp_code"
+ 2385  git push 
+ 2386  docker exec tracer-tester pytest /src/tests/test_function/test_get_eqp_code.py
+ 2387  git pull
+ 2388  docker exec tracer-tester pytest /src/tests/test_function/test_get_global_const.py
+ 2389  git add --all
+ 2390  git commit -m "Testing get_global_const and get_latest_review_or_info_date"
+ 2391  git push
+ 2392  git status
+ 2393  docker exec tracer-tester pytest /src/tests/test_function/test_get_global_const.py
+ 2394  docker exec tracer-tester pytest /src/tests/test_function/test_get_latest_review_or_info_date.py
+ 2395  git add --all
+ 2396  git commit -m "classification, condition, eqp_code, global_const, latest_review, xref"
+ 2397  git push
+ 2398  git status
+ 2399  git checkout master
+ 2400  git add --all
+ 2401  git commit -m "Testing get_location_availability and get_nomenclature"
+ 2402  git push 
+ 2403  git status
+ 2404  git checkout get_classification
+ 2405  docker exec tracer-tester pytest /src/tests/test_function/test_get_location_availability.py
+ 2406  docker exec tracer-tester pytest /src/tests/test_function/test_get_nomenclature.py
+ 2407  git add --all 
+ 2408  git commit -m "added tests" 
+ 2409  git push 
+ 2410  git status
+ 2411  git checkout removed_functions
+ 2412  docker exec tracer-tester pytest /src/tests/test_function
+ 2413  git checkout patterns
+ 2414  git stash 
+ 2415  git checkout patters
+ 2416  git checkout patterns
+ 2417  git pull
+ 2418  git checkout removed_functions
+ 2419  git pull
+ 2420  git stash 
+ 2421  git pull
+ 2422  git rebase master
+ 2423  git rebase --abort
+ 2424  git status
+ 2425  cd Desktop
+ 2426  grep -nr "NOT NULL," fac.txt > output.txt
+ 2427  ls 
+ 2428  docker exec tracer-tester pytest /src/tests/test_function/test_get_fac_sk.py
+ 2429  git stash 
+ 2430  git pull
+ 2431  docker exec tracer-tester pytest /src/tests/test_function/test_get_fac_sk.py
+ 2432  git checkout master
+ 2433  git stash
+ 2434  git checkout master
+ 2435  git stash drop 
+ 2436  git stash 
+ 2437  git checkout master
+ 2438  git stash 
+ 2439  git checkout master
+ 2440  git checkout patterns
+ 2441  git pull
+ 2442  git checkout removed_functions
+ 2443  git status
+ 2444  docker exec tracer-tester pytest /src/tests/test_function/test_get_fac_sk.py
+ 2445  source /opt/anaconda3/bin/activate
+ 2446  conda activate base
+ 2447  /opt/anaconda3/bin/python
+ 2448  docker exec tracer-tester pytest /src/tests/test_function/test_get_fac_sk.py
+ 2449  ls
+ 2450  docker exec tracer-tester pytest /src/tests/test_function/test_get_fac_sk.py
+ 2451  grep -nr "NOT NULL," eqp.txt > Eqpoutput.txt
+ 2452  mkdir for_viewing
+ 2453  cd for_viewing
+ 2454  docker exec tracer-tester pytest /src/tests/test_function/test_get_eqp_sk.py
+ 2455  docker exec tracer-tester pytest /src/tests/test_function/test_get_fac_sk.py
+ 2456  docker exec tracer-tester pytest /src/tests/test_function/test_get_eqp_sk.py
+ 2457  docker exec tracer-tester pytest /src/tests/test_function/test_get_fac_sk.py
+ 2458  docker exec tracer-tester pytest /src/tests/test_function/test_get_eqp_sk.py
+ 2459  cd ..
+ 2460  grep -nr "NOT NULL," eqp.txt > Eqpoutput.txt
+ 2461  docker exec tracer-tester pytest /src/tests/test_function/test_get.py
+ 2462  docker exec tracer-tester pytest /src/tests/test_function/test_get_fac_sk.py
+ 2463  git status
+ 2464  git add --all
+ 2465  git commit -m "Added Fac, Eqp, and Rmk tables as fixtures"
+ 2466  git push
+ 2467  git status
+ 2468  git checkout master
+ 2469  git pull
+ 2470  git checkout removed_functions
+ 2471  git add --all
+ 2472  git commit -m "Added spaces" 
+ 2473  git push 
+ 2474  git status
+ 2475  git checkout master
+ 2476  git pull
+ 2477  git pul
+ 2478  git pull
+ 2479  git checkout airport_insert
+ 2480  git pull
+ 2481  git checkout removed_functions
+ 2482  git rebase master
+ 2483  git rebase --abort
+ 2484  git rebase master
+ 2485  git status
+ 2486  git stash 
+ 2487  git stash dro 
+ 2488  git stash drop
+ 2489  git rebase master
+ 2490  git rebase --abort
+ 2491  git stash 
+ 2492  git stash drop
+ 2493  git status
+ 2494  git rebase master
+ 2495  git rebase --abort
+ 2496  git stash 
+ 2497  git stash drop
+ 2498  git status
+ 2499  git rebase origin/master 
+ 2500  git add --all 
+ 2501  git commit -m "removed unused string"
+ 2502  git push
+ 2503  git rebase origin/master 
+ 2504  docker status
+ 2505  docker stats
+ 2506  git rebase --abort
+ 2507  git stash 
+ 2508  git stash drop
+ 2509  git pull
+ 2510  git checkout master
+ 2511  git pull
+ 2512  docker stats
+ 2513  docker-compose up --build
+ 2514  docker-compose up 
+ 2515  cd ..
+ 2516  cd tracer
+ 2517  ls
+ 2518  ./build-dev-env.sh
+ 2519  ls
+ 2520  cd trac
+ 2521  docker stats
+ 2522  tracer-tester 
+ 2523  docker stop tracer-tester
+ 2524  docker stats
+ 2525  docker run exec tracer-tester pytest /src/tests/test_function/test_get.py
+ 2526  docker run docker exec tracer-tester pytest /src/tests/test_function/test_get.py
+ 2527  cd tr
+ 2528  cd Desktop
+ 2529  cd tracer
+ 2530  cd db
+ 2531  cd tester
+ 2532  ls
+ 2533  cd src
+ 2534  docker-compose run tracer pytest /src/tests/test_function/test_get_fips_cc.py
+ 2535  cd ..
+ 2536  docker-compose run tracer pytest /src/tests/test_function/test_get_fips_cc.py
+ 2537  cd src
+ 2538  cd app
+ 2539  docker-compose run tracer pytest /src/tests/test_function/test_get_fips_cc.py
+ 2540  cd ..
+ 2541  docker-compose run tracer pytest /src/tests/test_function/test_get_fips_cc.py
+ 2542  git stash 
+ 2543  git stash drop
+ 2544  docker-compose run tracer pytest /src/tests/test_function/test_get_fips_cc.py
+ 2545  docker-compose run tracer pytest /src/tests/test_function/
+ 2546  git pull
+ 2547  docker stats
+ 2548  docker-compose run tracer pytest /src/tests/test_function/
+ 2549  cd d
+ 2550  cd db
+ 2551  cd tester
+ 2552  docker-compose run tracer pytest /src/tests/test_function/
+ 2553  cd ..
+ 2554  ls
+ 2555  cd dev-env
+ 2556  docker-compose down
+ 2557  cd ..
+ 2558  ./build-dev-env.sh
+ 2559  git pull
+ 2560  git fetch origin
+ 2561  git checkout -b "arpt-test-1" "origin/arpt-test-1"
+ 2562  git checkout master 
+ 2563  git stash 
+ 2564  git stash drop 
+ 2565  git checkout -b "arpt-test-1" "origin/arpt-test-1"
+ 2566  git stash
+ 2567  git stash drop 
+ 2568  git checkout arpt-test-1
+ 2569  docker stats
+ 2570  docker exec tracer-tester pytest /src/tests/test_function/test_get_fac_sk.py
+ 2571  git checkout master 
+ 2572  git stash 
+ 2573  git stash all 
+ 2574  git stash drop 
+ 2575  git checkout master 
+ 2576  git checkout arpt-test-1
+ 2577  docker exec tracer-tester pytest -m fac
+ 2578  git pull
+ 2579  docker exec tracer-tester pytest -m fac
+ 2580  source /opt/anaconda3/bin/activate
+ 2581  conda activate base
+ 2582  conda deactivate
+ 2583  cd dev-env
+ 2584  docker-compose down 
+ 2585  cd ..
+ 2586  ls
+ 2587  ./build-dev-env.sh
+ 2588  docker exec tracer-tester pytest -m fac
+ 2589  docker exec tracer-tester pytest 
+ 2590  git status 
+ 2591  git add --all 
+ 2592  git commit -m "Updated db_connection"
+ 2593  git push 
+ 2594  git sttaus
+ 2595  git status
+ 2596  git checkout master
+ 2597  git pull
+ 2598  git checkout -b template
+ 2599  git pull
+ 2600  git checkout master
+ 2601  git pull
+ 2602  git checkout template
+ 2603  git checkout master
+ 2604  git getch origin/master
+ 2605  git stash 
+ 2606  git stash drop 
+ 2607  git checkout arpt-test-2
+ 2608  git pull
+ 2609  docker stats
+ 2610  ./build-dev-env.sh
+ 2611  source /opt/anaconda3/bin/activate
+ 2612  conda activate base
+ 2613  conda dea
+ 2614  conda deactivate
+ 2615  cd db
+ 2616  cd tester
+ 2617  ls
+ 2618  docker exec tracer-tester pytest -m fac
+ 2619  git checkout template
+ 2620  git pull
+ 2621  git checkout master
+ 2622  git pull
+ 2623  git status
+ 2624  git pull
+ 2625  git status
+ 2626  git pull
+ 2627  docker stats
+ 2628  cd ..
+ 2629  ls
+ 2630  cd dev-env
+ 2631  docker-compose down 
+ 2632  docker stats
+ 2633  docker-compose down
+ 2634  docker stats
+ 2635  ls
+ 2636  cd ..
+ 2637  ls
+ 2638  cd dev-env
+ 2639  ls
+ 2640  docker-compose down 
+ 2641  cd ..
+ 2642  docker container -ls
+ 2643  docker container ls
+ 2644  docker kill 28a0c62481b7
+ 2645  docker kill e13c2632f8cd
+ 2646  ls
+ 2647  ./build-dev-env.sh
+ 2648  docker stats
+ 2649  cd db
+ 2650  cd tester
+ 2651  ls
+ 2652  cd Desktop
+ 2653  ls
+ 2654  git clone git@gitlab.gs.mil:DevCorps/Templates/sql-unit-test-template.git
+ 2655  ls
+ 2656  docker stats
+ 2657  docker exec tracer-tester pytest /src/tests/test_function/test_get.py
+ 2658  docker container ls
+ 2659  docker kil b6b680d7b2f3
+ 2660  docker kill b6b680d7b2f3
+ 2661  docker exec tracer-tester pytest /src/tests/test_function/test_get.py
+ 2662  docker exec tracer-tester pytest /src/tests/test_function/test_get_fac_sk.py
+ 2663  docker run docker exec tracer-tester pytest /src/tests/test_function/test_get.py
+ 2664  docker exec tracer-tester pytest /src/tests/test_function/test_calculate_elevation.py
+ 2665  docker run exec tracer-tester pytest /src/tests/test_function/test_get.py
+ 2666  cd db
+ 2667  ls
+ 2668  cd ..
+ 2669  cd tester
+ 2670  cd src
+ 2671  docker run exec tracer-tester pytest /src/tests/test_function/test_get.py
+ 2672  docker run docker exec tracer-tester pytest /src/tests/test_function/test_get.py
+ 2673  docker run pytest
+ 2674  docker run
+ 2675  ls
+ 2676  docker run exec tracer-tester pytest /src/tests/test_function/test_get.py
+ 2677  docker exec tracer-tester pytest /src/tests/test_function/test_calculate_elevation.py
+ 2678  docker exec tracer-tester pytest /src/tests/test_function/test_test_function.py
+ 2679  ls
+ 2680  cd sql-unit-test-template/
+ 2681  git pull
+ 2682  ls
+ 2683  git status
+ 2684  cd ..
+ 2685  ls
+ 2686  docker-compose up 
+ 2687  source /opt/anaconda3/bin/activate
+ 2688  dockconda activate base
+ 2689  conda deactivate
+ 2690  git pull
+ 2691  docker exec tracer-tester pytest /src/tests/test_function/test_test_function.py
+ 2692  docker exec tracer-tester pytest /src/tests/test_function/test_append_suffix.py
+ 2693  docker-compose down
+ 2694  docker-compose down --rmi all
+ 2695  docker-compose up --build
+ 2696  docker-compose up 
+ 2697  docker exec tracer-tester pytest /src/tests/test_function/test_append_suffix.py
+ 2698  cd src
+ 2699  histpry
+ 2700  history
+ 2701  docker exec tracer-tester pytest /src/tests/test_function/test_calculate_elevation.py
+ 2702  docker run exec tracer-tester pytest /src/tests/test_function/
+ 2703  docker run pytest /src/tests/test_function/
+ 2704  docker run tracer-tester pytest /src/tests/test_function/
+ 2705  ls
+ 2706  docker run
+ 2707  docker run pytest
+ 2708  ls
+ 2709  cd ..
+ 2710  docker run tracer-tester pytest /src/tests/test_function/
+ 2711  docker-compose up
+ 2712  cd src
+ 2713  ls
+ 2714  docker run exec pytest
+ 2715  docker run docker exec pytest
+ 2716  docker run docker exec pytest src
+ 2717  docker run docker exec pytest /src/
+ 2718  docker run exec docker pytest /src/
+ 2719  docker run docker exec docker pytest /src/
+ 2720  docker run docker pytest /src/
+ 2721  ls
+ 2722  docker run docker pytest 
+ 2723  docker run docker 
+ 2724  docker run 
+ 2725  docker run
+ 2726  docker stats
+ 2727  ls
+ 2728  docker run -dit -v . --tracer-tester pytest /src/tests/test_function/
+ 2729  docker run -dit -v . --name pytest /src/tests/test_function/
+ 2730  docker run -dit -v . pytest /src/tests/test_function/
+ 2731  docker build tester_tracer
+ 2732  docker build test-tracer
+ 2733  docker build - test-tracer
+ 2734  docker build -t test-tracer
+ 2735  docker build 
+ 2736  docker build .
+ 2737  docker run 
+ 2738  docker build -t test-tracer .
+ 2739  docker run -dp 3000:3000 test-tracer
+ 2740  docker stats
+ 2741  docker run test-tracer
+ 2742  docker run -dp 3000:3000 test-tracer
+ 2743  docker run -dp 8000:8000 test-tracer
+ 2744  docker run -dp 8000:8000 test-tracer exec pytest
+ 2745  docker run -dp 8000:8000 test-tracer exec pytest /src/tests/test_function/
+ 2746  docker run exec test-tracer pytest /src/tests/test_function/
+ 2747  docker run test-tracer exec pytest /src/tests/test_function/
+ 2748  docker build -t test-tracer .
+ 2749  docker run test-tracer exec pytest /src/tests/test_function/
+ 2750  docker build -t test-tracer .
+ 2751  docker build -t test-tracer2 .
+ 2752  docker run test-tracer2 exec pytest /src/tests/test_function/
+ 2753  docker build -t test-tracer2 .
+ 2754  docker build -t test-tracer .
+ 2755  docker run test-tracer exec pytest /src/tests/test_function/
+ 2756  cd ..
+ 2757  cd sql-unit-test-template
+ 2758  git pull
+ 2759  cd ..
+ 2760  cd documents
+ 2761  git pull
+ 2762  git branch -a
+ 2763  git checkout procedure-conversion-spreadsheets
+ 2764  git checkout master
+ 2765  git pull
+ 2766  docker run test-tracer exec pytest /src/tests/test_function/
+ 2767  ./tester.sh
+ 2768  chmod +x tester.sh
+ 2769  ./tester.sh
+ 2770  docker exec tracer-tester pytest /src/tests/test_function/test_append_suffix.py
+ 2771  docker test-tracer exec pytest
+ 2772  docker run --entrypoint "/bin/sh" -it test-tracer
+ 2773  docker stats test-tracer --no-stream\n
+ 2774  docker ps --format '{{.Names}}' | grep tracer-tester\n
+ 2775  cd d
+ 2776  cd db
+ 2777  cd tester
+ 2778  docker ps --format '{{.Names}}' | grep tracer-tester\n
+ 2779  cd src
+ 2780  chmod +x run-tests.sh
+ 2781  ./run-tests.sh
+ 2782  ./tester.sh
+ 2783  ./run-tests.sh
+ 2784  ./tester.sh
+ 2785  docker run --entrypoint "/bin/sh" -it tracer-tester
+ 2786  ./tester.sh
+ 2787  source /opt/anaconda3/bin/activate
+ 2788  conda activate base
+ 2789  conda deactivate
+ 2790  cd ..
+ 2791  cd tracer
+ 2792  git stash 
+ 2793  git stash drop
+ 2794  docker run --entrypoint "/bin/sh" -it tracer-tester
+ 2795  source /opt/anaconda3/bin/activate
+ 2796  conda activate base
+ 2797  conda deactivate
+ 2798  cd db
+ 2799  cd tester
+ 2800  ls
+ 2801  cd src
+ 2802  ls
+ 2803  ./tester.sh
+ 2804  docker run --entrypoint "/bin/sh" -it tracer-tester
+ 2805  ./tester.sh
+ 2806  source /opt/anaconda3/bin/activate
+ 2807  conda activate base
+ 2808  conda deactivate
+ 2809  ./build-sql-unit-test
+ 2810  ./build-sql-unit-test.sh
+ 2811  ./tester.sh
+ 2812  docker run --entrypoint "/bin/sh" -it tracer-tester
+ 2813  git pull
+ 2814  ./build-sql-unit-test.sh
+ 2815  docker container rm sql-unit-test-db
+ 2816  docker stats
+ 2817  docker kill c85883406e63
+ 2818  docker container rm sql-unit-test-db
+ 2819  ./build-sql-unit-test.sh
+ 2820  docker stats
+ 2821  docker run --entrypoint "/bin/sh" -it tracer-tester
+ 2822  docker run --entrypoint "/bin/sh" -it sql-unit-test-db-tester
+ 2823  git pull
+ 2824  git add --all
+ 2825  git commit -m "HandleInsFacTrait to insert_fac_trait"
+ 2826  git push
+ 2827  cd Desktop
+ 2828  cd Check_branches
+ 2829  git clone git@gitlab.gs.mil:DevCorps/midb-mcat/tracer.git
+ 2830  cd tracer
+ 2831  git checkout fac-trait-wrapper
+ 2832  source /opt/anaconda3/bin/activate
+ 2833  conda activate base
+ 2834  conda deactivate
+ 2835  source /opt/anaconda3/bin/activate
+ 2836  conda activate base
+ 2837  conda deacttivate 
+ 2838  conda deactivate
+ 2839  git status
+ 2840  git pull
+ 2841  git status
+ 2842  git branch -a
+ 2843  git checkout -b handle_ins_fac_trait
+ 2844  git add --all
+ 2845  git commit -m "Added build_fac_trait and water_supply update"
+ 2846  git push
+ 2847  docker stats
+ 2848  git pull'
+ 2849  git pull
+ 2850  ls
+ 2851  cd python_tester
+ 2852  ls
+ 2853  pytest
+ 2854  pip install testing.postgresql
+ 2855  pip3 install testing.postgresql
+ 2856  pytest
+ 2857  pip3 install testing.postgresql
+ 2858  pytest
+ 2859  pip3 nose.tools
+ 2860  pip3 install nose.tools
+ 2861  pip3 install nose
+ 2862  pytest
+ 2863  pip3 install app
+ 2864  pytest
+ 2865  pip3 install app.insert
+ 2866  pytest
+ 2867  cd python_server
+ 2868  ls
+ 2869  cd server
+ 2870  pytest
+ 2871  ls
+ 2872  py tests.py
+ 2873  python tests.py
+ 2874  cd ..
+ 2875  pytest
+ 2876* ls
+ 2877* git status
+ 2878* docker exec tracer-tester pytest\n
+ 2879* docker stats
+ 2880* ls
+ 2881* cd db
+ 2882* ls
+ 2883* cd tester
+ 2884* docker stats
+ 2885* docker exec tracer-tester pytest\n
+ 2886* cd ..
+ 2887* ls
+ 2888* ./build-sql-unit-test.sh
+ 2889* ./build-dev-env.sh
+ 2890  ls
+ 2891  python server.py
+ 2892  cd server
+ 2893  python server.py
+ 2894  cd ..
+ 2895  mkdir tester
+ 2896  cd tester
+ 2897  ls
+ 2898  python3 -m venv tracer-tester
+ 2899  . tracer-tester/bin/activate
+ 2900  ls
+ 2901  python3 server.py
+ 2902  python server.py
+ 2903  history
